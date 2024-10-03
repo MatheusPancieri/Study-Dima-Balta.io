@@ -5,6 +5,7 @@ C:\Users\estagioCotin2\Documents\EstudosVS\Balta.io\Dima\Dima.Core\obj\Debug\net
 C:\Users\estagioCotin2\Documents\EstudosVS\Balta.io\Dima\Dima.Core\obj\Debug\net9.0\Dima.Core.AssemblyInfoInputs.cache
 C:\Users\estagioCotin2\Documents\EstudosVS\Balta.io\Dima\Dima.Core\obj\Debug\net9.0\Dima.Core.AssemblyInfo.cs
 C:\Users\estagioCotin2\Documents\EstudosVS\Balta.io\Dima\Dima.Core\obj\Debug\net9.0\Dima.Core.csproj.CoreCompileInputs.cache
+C:\Users\estagioCotin2\Documents\EstudosVS\Balta.io\Dima\Dima.Core\obj\Debug\net9.0\Dima.Core.sourcelink.json
 C:\Users\estagioCotin2\Documents\EstudosVS\Balta.io\Dima\Dima.Core\obj\Debug\net9.0\Dima.Core.dll
 C:\Users\estagioCotin2\Documents\EstudosVS\Balta.io\Dima\Dima.Core\obj\Debug\net9.0\refint\Dima.Core.dll
 C:\Users\estagioCotin2\Documents\EstudosVS\Balta.io\Dima\Dima.Core\obj\Debug\net9.0\Dima.Core.pdb

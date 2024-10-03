@@ -124,6 +124,7 @@ C:\Users\estagioCotin2\Documents\EstudosVS\Balta.io\Dima\Dima.Api\obj\Debug\net9
 C:\Users\estagioCotin2\Documents\EstudosVS\Balta.io\Dima\Dima.Api\obj\Debug\net9.0\Dima.Api.csproj.CoreCompileInputs.cache
 C:\Users\estagioCotin2\Documents\EstudosVS\Balta.io\Dima\Dima.Api\obj\Debug\net9.0\Dima.Api.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\estagioCotin2\Documents\EstudosVS\Balta.io\Dima\Dima.Api\obj\Debug\net9.0\Dima.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\estagioCotin2\Documents\EstudosVS\Balta.io\Dima\Dima.Api\obj\Debug\net9.0\Dima.Api.sourcelink.json
 C:\Users\estagioCotin2\Documents\EstudosVS\Balta.io\Dima\Dima.Api\obj\Debug\net9.0\scopedcss\bundle\Dima.Api.styles.css
 C:\Users\estagioCotin2\Documents\EstudosVS\Balta.io\Dima\Dima.Api\obj\Debug\net9.0\staticwebassets.build.json
 C:\Users\estagioCotin2\Documents\EstudosVS\Balta.io\Dima\Dima.Api\obj\Debug\net9.0\staticwebassets.development.json

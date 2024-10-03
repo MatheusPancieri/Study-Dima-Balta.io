@@ -1,4 +1,5 @@
 using Dima.Api.Data;
+using Dima.Core.Common.Extentions;
 using Dima.Core.Enums;
 using Dima.Core.Handlers;
 using Dima.Core.Models;
@@ -114,8 +115,8 @@ public class TransactionHandler(AppDbContext context) : ITransactionHandler
     {
         try
         {
-            //request.StartDate ??= DateTime.Now.GetFirstDay();
-            //request.EndDate ??= DateTime.Now.GetLastDay();
+            request.StartDate ??= DateTime.Now.GetFirstDay();
+            request.EndDate ??= DateTime.Now.GetLastDay();
         }
         catch
         {
