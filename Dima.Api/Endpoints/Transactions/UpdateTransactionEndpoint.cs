@@ -12,9 +12,9 @@ public class UpdateTransactionsEndpoint : IEndpoint
 {
     public static void Map(IEndpointRouteBuilder app)
         => app.MapPut("/{id}", HandleAsync)
-            .WithName("Categories: Update")
-            .WithSummary("Atualiza uma categoria")
-            .WithDescription("Atualiza uma categoria")
+            .WithName("Transactions: Update")
+            .WithSummary("Atualiza uma transação")
+            .WithDescription("Atualiza uma transação")
             .WithOrder(2)
             .Produces<Response<Transaction?>>();
 
