@@ -18,8 +18,9 @@ builder.Services.AddDbContext<AppDbContext>(
 );
 builder.Services
     .AddIdentityCore<User>()
-    .AddRoles<IdentityRole>()
-    .AddEntityFrameworkStores<AppDbContext>();
+    .AddRoles<IdentityRole<long>>()
+    .AddEntityFrameworkStores<AppDbContext>()
+    .AddApiEndpoints();
 
 // Configuração do Swagger
 builder.Services.AddEndpointsApiExplorer();
@@ -37,10 +38,16 @@ builder.Services.AddAuthorization();
 
 var app = builder.Build();
 
+app.UseAuthentication();
+app.UseAuthorization();
+
 app.UseSwagger();
 app.UseSwaggerUI();
 
 app.MapGet("/", () => new { message = "OK" });
 app.MapEndpoints();
+app.MapGroup("v1/identity")
+    .WithTags("Identity")
+    .MapIdentityApi<User>();
 
 app.Run();

@@ -1,20 +1,29 @@
 using Dima.Api.Data.Mappings;
 using Dima.Api.Models;
+using Dima.Api.Data.Mappings.Identity;
 using Dima.Core.Models;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
+using System.Reflection;
 
 namespace Dima.Api.Data;
 
-public class AppDbContext(DbContextOptions<AppDbContext> options) : IdentityDbContext<User, IdentityRole, string>(options)
+public class AppDbContext(DbContextOptions<AppDbContext> options) :
+    IdentityDbContext<User,
+    IdentityRole<long>,
+    long,
+    IdentityUserClaim<long>,
+    IdentityUserRole<long>,
+    IdentityUserLogin<long>,
+    IdentityRoleClaim<long>,
+    IdentityUserToken<long>>(options)
 {
     public DbSet<Category> Categories { get; set; }
     public DbSet<Transaction> Transactions { get; set; }
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
-        modelBuilder.ApplyConfiguration(new CategoryMapping());
-        modelBuilder.ApplyConfiguration(new TransactionMapping());
+        modelBuilder.ApplyConfigurationsFromAssembly(Assembly.GetExecutingAssembly());
     }
 }

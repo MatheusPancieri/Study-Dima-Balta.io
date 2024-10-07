@@ -9,6 +9,7 @@ C:\Users\estagioCotin2\Documents\EstudosVS\Balta.io\Dima\Dima.Api\bin\Debug\net9
 C:\Users\estagioCotin2\Documents\EstudosVS\Balta.io\Dima\Dima.Api\bin\Debug\net9.0\Azure.Core.dll
 C:\Users\estagioCotin2\Documents\EstudosVS\Balta.io\Dima\Dima.Api\bin\Debug\net9.0\Azure.Identity.dll
 C:\Users\estagioCotin2\Documents\EstudosVS\Balta.io\Dima\Dima.Api\bin\Debug\net9.0\Humanizer.dll
+C:\Users\estagioCotin2\Documents\EstudosVS\Balta.io\Dima\Dima.Api\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 C:\Users\estagioCotin2\Documents\EstudosVS\Balta.io\Dima\Dima.Api\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
 C:\Users\estagioCotin2\Documents\EstudosVS\Balta.io\Dima\Dima.Api\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\estagioCotin2\Documents\EstudosVS\Balta.io\Dima\Dima.Api\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
