@@ -13,6 +13,5 @@ var app = builder.Build();
 
 if (app.Environment.IsDevelopment())
     app.ConfigurationDevEnviroment();
-
-
+    
 app.Run();
