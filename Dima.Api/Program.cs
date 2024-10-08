@@ -1,4 +1,5 @@
 using Dima.Api.Common.Api;
+using Dima.Api.Endpoints;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -13,5 +14,8 @@ var app = builder.Build();
 
 if (app.Environment.IsDevelopment())
     app.ConfigurationDevEnviroment();
-    
+
+app.UseSecurity();
+app.MapEndpoints();
+
 app.Run();
