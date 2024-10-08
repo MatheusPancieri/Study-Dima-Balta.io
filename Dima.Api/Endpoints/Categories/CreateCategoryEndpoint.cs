@@ -23,7 +23,7 @@ public class CreateCategoryEndpoint : IEndpoint
         ICategoryHandler handler,
         CreateCategoryRequest request)
     {
-        request.UserId = "teste@balta.io";
+        request.UserId = user.Identity?.Name ?? string.Empty;
         var result = await handler.CreateAsync(request);
         return result.IsSuccess
             ? TypedResults.Created($"/{result.Data?.Id}", result)

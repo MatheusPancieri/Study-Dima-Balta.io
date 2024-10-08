@@ -20,6 +20,7 @@ public class GetTransactionsByPeriodEndpoint : IEndpoint
             .Produces<PageResponse<List<Transaction>?>>();
 
     private static async Task<IResult> HandleAsync(
+        ClaimsPrincipal user,
         ITransactionHandler handler,
         [FromQuery] DateTime? startDate = null,
         [FromQuery] DateTime? endDate = null,
@@ -28,7 +29,7 @@ public class GetTransactionsByPeriodEndpoint : IEndpoint
     {
         var request = new GetTransactionsByPeriodRequest
         {
-            UserId = "teste@balta.io",
+            UserId = user.Identity?.Name ?? string.Empty,
             PageNumber = pageNumber,
             PageSize = pageSize,
             StartDate = startDate,

@@ -27,7 +27,7 @@ public class GetAllCategoriesEndpoint : IEndpoint
     {
         var request = new GetAllCategoryRequest
         {
-            UserId = "teste@balta.io",
+            UserId = user.Identity?.Name ?? string.Empty,
             PageNumber = pageNumber,
             PageSize = pageSize,
         };
