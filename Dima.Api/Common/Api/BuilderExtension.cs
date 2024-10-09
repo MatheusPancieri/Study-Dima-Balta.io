@@ -10,27 +10,33 @@ namespace Dima.Api.Common.Api;
 
 public static class BuilderExtension
 {
-    public static void AddConfiguration(this WebApplicationBuilder builder)
+    public static void AddConfiguration(
+        this WebApplicationBuilder builder)
     {
-        Configuration.ConnectionString = builder.Configuration.GetConnectionString("DefaultConnection") ?? string.Empty;
+        Configuration.ConnectionString =
+            builder
+                .Configuration
+                .GetConnectionString("DefaultConnection")
+            ?? string.Empty;
     }
+
     public static void AddDocumentation(this WebApplicationBuilder builder)
     {
-        // Configuração do Swagger
         builder.Services.AddEndpointsApiExplorer();
         builder.Services.AddSwaggerGen(x => { x.CustomSchemaIds(n => n.FullName); });
     }
+
     public static void AddSecurity(this WebApplicationBuilder builder)
     {
-        // Configuração do Identity User
         builder.Services
             .AddAuthentication(IdentityConstants.ApplicationScheme)
             .AddIdentityCookies();
+
         builder.Services.AddAuthorization();
     }
+
     public static void AddDataContexts(this WebApplicationBuilder builder)
     {
-        // Configuração da conexão com o bd
         builder
             .Services
             .AddDbContext<AppDbContext>(
@@ -41,13 +47,21 @@ public static class BuilderExtension
             .AddEntityFrameworkStores<AppDbContext>()
             .AddApiEndpoints();
     }
-    public static void AddCrossOrigins(this WebApplicationBuilder builder)
+
+    public static void AddCrossOrigin(this WebApplicationBuilder builder)
     {
+
     }
+
     public static void AddServices(this WebApplicationBuilder builder)
     {
-        // Configuração das injeção de dependência 
-        builder.Services.AddTransient<ICategoryHandler, CategoryHandler>();
-        builder.Services.AddTransient<ITransactionHandler, TransactionHandler>();
+        builder
+            .Services
+            .AddTransient<ICategoryHandler, CategoryHandler>();
+
+        builder
+            .Services
+            .AddTransient<ITransactionHandler, TransactionHandler>();
+
     }
 }
