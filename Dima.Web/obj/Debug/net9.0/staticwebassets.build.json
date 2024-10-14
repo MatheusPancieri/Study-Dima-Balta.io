@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "zjMLDGGtx1+h9LQSHMQs+rcHNgRBsyJPBmcJoEytJ4Y=",
+  "Hash": "xIjmvLwfFrPr0UCNtxw8dKVALTl5zEG6CNl5uxMPZOQ=",
   "Source": "Dima.Web",
   "BasePath": "/",
   "Mode": "Root",
@@ -73,8 +73,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "kgvftslgcb",
-      "Integrity": "BMpUBC4e0khVsAdibSsSlIrkJCpAuUkqKgxTA6JU2P8=",
+      "Fingerprint": "m3lbdhuako",
+      "Integrity": "bk/PR+WJ95P2pTKUC0PG7v5E3kOT/2gly+ETRHZz0Q4=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net9.0\\blazor.boot.json"
@@ -115,8 +115,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "qmyqxtg63m",
-      "Integrity": "0gZXCWtSqG9NMLgNjTA7ifho0XO+Qs7xQruB0J1tDJI=",
+      "Fingerprint": "o9dw7kf7gu",
+      "Integrity": "1A0jobnGv8iEqAhjmnXzjqDpKvjnIEqOSLLSp4pTE5k=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net9.0\\Dima.Web.pdb"
@@ -136,8 +136,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "eilfafanc2",
-      "Integrity": "Wp9CSOsl26za6JT9e0wHif3sjR96KP/4G7pzvS6tzfQ=",
+      "Fingerprint": "mr0bud2hnh",
+      "Integrity": "XpUx/1iXkLad7iDmYJkFfWXl5cmIivSCgUFEk8E4ioM=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\estagioCotin2\\Documents\\EstudosVS\\Balta.io\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\webcil\\Dima.Web.wasm"
@@ -4616,7 +4616,7 @@
       "OriginalItemSpec": "C:\\Users\\estagioCotin2\\Documents\\EstudosVS\\Balta.io\\Dima\\Dima.Web\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Runtime.Intrinsics.wasm"
     },
     {
-      "Identity": "C:\\Users\\estagioCotin2\\Documents\\EstudosVS\\Balta.io\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\1yfefky1x0-htku9mwind.gz",
+      "Identity": "C:\\Users\\estagioCotin2\\Documents\\EstudosVS\\Balta.io\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\1yfefky1x0-g3tpd1i71z.gz",
       "SourceId": "Dima.Web",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\estagioCotin2\\Documents\\EstudosVS\\Balta.io\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\",
@@ -4630,8 +4630,8 @@
       "RelatedAsset": "C:\\Users\\estagioCotin2\\Documents\\EstudosVS\\Balta.io\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\service-worker\\service-worker-assets.js.build",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "usm928kou4",
-      "Integrity": "rn1AjtG/XJ42lh3OxC9Zo5Y+fSJia9Ccc9QspPTqEcU=",
+      "Fingerprint": "hupnddk7j1",
+      "Integrity": "Z5zPt/D1KDqoorJPdqZSh3Jl3npPbvFdLRRYv5qYs0E=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\estagioCotin2\\Documents\\EstudosVS\\Balta.io\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\service-worker\\service-worker-assets.js.build"
@@ -5120,12 +5120,12 @@
       "OriginalItemSpec": "C:\\Users\\estagioCotin2\\Documents\\EstudosVS\\Balta.io\\Dima\\Dima.Web\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Microsoft.Extensions.Logging.Abstractions.wasm"
     },
     {
-      "Identity": "C:\\Users\\estagioCotin2\\Documents\\EstudosVS\\Balta.io\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\6rm4iddht2-qmyqxtg63m.gz",
+      "Identity": "C:\\Users\\estagioCotin2\\Documents\\EstudosVS\\Balta.io\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\6rm4iddht2-o9dw7kf7gu.gz",
       "SourceId": "Dima.Web",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\estagioCotin2\\Documents\\EstudosVS\\Balta.io\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/Dima.Web#[.{fingerprint=qmyqxtg63m}]!.pdb.gz",
+      "RelativePath": "_framework/Dima.Web#[.{fingerprint=o9dw7kf7gu}]!.pdb.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -5134,8 +5134,8 @@
       "RelatedAsset": "C:\\Users\\estagioCotin2\\Documents\\EstudosVS\\Balta.io\\Dima\\Dima.Web\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Dima.Web.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "w8xi8nu7wz",
-      "Integrity": "0NySM2r1n7ApO5ocCQ9qmm//8B41pLVI1oy0EA8Z+bM=",
+      "Fingerprint": "gb18umheqj",
+      "Integrity": "rD4OjE1Hlao67zzKK3IRCufSVQrdFcGOPD7arCiWfZ0=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\estagioCotin2\\Documents\\EstudosVS\\Balta.io\\Dima\\Dima.Web\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Dima.Web.pdb"
@@ -5204,7 +5204,7 @@
       "OriginalItemSpec": "C:\\Users\\estagioCotin2\\Documents\\EstudosVS\\Balta.io\\Dima\\Dima.Web\\bin\\Debug\\net9.0\\wwwroot\\_framework\\icudt_no_CJK.dat"
     },
     {
-      "Identity": "C:\\Users\\estagioCotin2\\Documents\\EstudosVS\\Balta.io\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\70vn0rd6h7-5o0hg51her.gz",
+      "Identity": "C:\\Users\\estagioCotin2\\Documents\\EstudosVS\\Balta.io\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\70vn0rd6h7-gf5h28ha77.gz",
       "SourceId": "Dima.Web",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\estagioCotin2\\Documents\\EstudosVS\\Balta.io\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\",
@@ -7115,7 +7115,7 @@
       "OriginalItemSpec": "C:\\Users\\estagioCotin2\\Documents\\EstudosVS\\Balta.io\\Dima\\Dima.Web\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Diagnostics.Contracts.wasm"
     },
     {
-      "Identity": "C:\\Users\\estagioCotin2\\Documents\\EstudosVS\\Balta.io\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\mvidceechf-kgvftslgcb.gz",
+      "Identity": "C:\\Users\\estagioCotin2\\Documents\\EstudosVS\\Balta.io\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\mvidceechf-m3lbdhuako.gz",
       "SourceId": "Dima.Web",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\estagioCotin2\\Documents\\EstudosVS\\Balta.io\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\",
@@ -7129,8 +7129,8 @@
       "RelatedAsset": "C:\\Users\\estagioCotin2\\Documents\\EstudosVS\\Balta.io\\Dima\\Dima.Web\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "a09nj4vavy",
-      "Integrity": "pn8lT3UI7zP38RBzoaJtAG+9Pb2EEsbm6Pc7pzUl6m8=",
+      "Fingerprint": "n8naqbrj61",
+      "Integrity": "2ZXplk8WXkiowdZF/tKd/1GtoHHWk6sv+5UVg/zlcRQ=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\estagioCotin2\\Documents\\EstudosVS\\Balta.io\\Dima\\Dima.Web\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json"
@@ -8606,12 +8606,12 @@
       "OriginalItemSpec": "C:\\Users\\estagioCotin2\\Documents\\EstudosVS\\Balta.io\\Dima\\Dima.Web\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Xml.XDocument.wasm"
     },
     {
-      "Identity": "C:\\Users\\estagioCotin2\\Documents\\EstudosVS\\Balta.io\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\xujp3esvxf-eilfafanc2.gz",
+      "Identity": "C:\\Users\\estagioCotin2\\Documents\\EstudosVS\\Balta.io\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\xujp3esvxf-mr0bud2hnh.gz",
       "SourceId": "Dima.Web",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\estagioCotin2\\Documents\\EstudosVS\\Balta.io\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/Dima.Web#[.{fingerprint=eilfafanc2}]!.wasm.gz",
+      "RelativePath": "_framework/Dima.Web#[.{fingerprint=mr0bud2hnh}]!.wasm.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -8620,8 +8620,8 @@
       "RelatedAsset": "C:\\Users\\estagioCotin2\\Documents\\EstudosVS\\Balta.io\\Dima\\Dima.Web\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Dima.Web.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "ivmzwlohkq",
-      "Integrity": "jrJ0cMmg7qUO/H3qWKldwrxE0i3K+SSJEgqDHtPtux4=",
+      "Fingerprint": "2n9j07jyc2",
+      "Integrity": "chxB7F+F+iOH2ffbXEwEK0NRWG+E7i/Dfc9IlZooh+0=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\estagioCotin2\\Documents\\EstudosVS\\Balta.io\\Dima\\Dima.Web\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Dima.Web.wasm"
@@ -8977,8 +8977,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "BlazorServiceWorker",
       "AssetTraitValue": "ServiceWorkerManifest",
-      "Fingerprint": "htku9mwind",
-      "Integrity": "5QW0jfxf5dQJg/Dqi6hs4xBJqXw5CIOoa0pz1fAx75s=",
+      "Fingerprint": "g3tpd1i71z",
+      "Integrity": "dO8FHHJb1ISkfMkPnR0noJR/k6/IUpkCivyIfB2wwz0=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net9.0\\service-worker\\service-worker-assets.js.build"
@@ -8998,8 +8998,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "BlazorServiceWorker",
       "AssetTraitValue": "ServiceWorkerJs",
-      "Fingerprint": "5o0hg51her",
-      "Integrity": "pbGW2tHyH/NVQF2dCtXiA1CBhpJft4VZwqIRDPCozes=",
+      "Fingerprint": "gf5h28ha77",
+      "Integrity": "RNhp2czLdRmKTvAswP6syOvX78+Hp078TQ18UvwdaAs=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "wwwroot\\service-worker.js"
@@ -9129,6 +9129,48 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\icon-512.png"
+    },
+    {
+      "Identity": "C:\\Users\\estagioCotin2\\Documents\\EstudosVS\\Balta.io\\Dima\\Dima.Web\\wwwroot\\img\\dima.png",
+      "SourceId": "Dima.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\estagioCotin2\\Documents\\EstudosVS\\Balta.io\\Dima\\Dima.Web\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "img/dima#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "blydhmv3f6",
+      "Integrity": "X2ncdkhTVjsHaFO7m9+uPsG6OF/qX59I3mXhF9qs89I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\dima.png"
+    },
+    {
+      "Identity": "C:\\Users\\estagioCotin2\\Documents\\EstudosVS\\Balta.io\\Dima\\Dima.Web\\wwwroot\\img\\logo.png",
+      "SourceId": "Dima.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\estagioCotin2\\Documents\\EstudosVS\\Balta.io\\Dima\\Dima.Web\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "img/logo#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "56cike5pjh",
+      "Integrity": "49XGfwW7cFuQoqcDEp+/ePQYKCMc+z257Ql0e93Jfy4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\logo.png"
     },
     {
       "Identity": "C:\\Users\\estagioCotin2\\Documents\\EstudosVS\\Balta.io\\Dima\\Dima.Web\\wwwroot\\index.html",
@@ -9488,11 +9530,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"BMpUBC4e0khVsAdibSsSlIrkJCpAuUkqKgxTA6JU2P8=\""
+          "Value": "\"bk/PR+WJ95P2pTKUC0PG7v5E3kOT/2gly+ETRHZz0Q4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Oct 2024 21:17:21 GMT"
+          "Value": "Mon, 14 Oct 2024 18:42:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9502,18 +9544,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-BMpUBC4e0khVsAdibSsSlIrkJCpAuUkqKgxTA6JU2P8="
+          "Value": "sha256-bk/PR+WJ95P2pTKUC0PG7v5E3kOT/2gly+ETRHZz0Q4="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json",
-      "AssetFile": "C:\\Users\\estagioCotin2\\Documents\\EstudosVS\\Balta.io\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\mvidceechf-kgvftslgcb.gz",
+      "AssetFile": "C:\\Users\\estagioCotin2\\Documents\\EstudosVS\\Balta.io\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\mvidceechf-m3lbdhuako.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0,000080128205"
+          "Quality": "0,000080141048"
         }
       ],
       "ResponseHeaders": [
@@ -9523,15 +9565,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12479"
+          "Value": "12477"
         },
         {
           "Name": "ETag",
-          "Value": "\"pn8lT3UI7zP38RBzoaJtAG+9Pb2EEsbm6Pc7pzUl6m8=\""
+          "Value": "\"2ZXplk8WXkiowdZF/tKd/1GtoHHWk6sv+5UVg/zlcRQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Oct 2024 21:17:22 GMT"
+          "Value": "Mon, 14 Oct 2024 18:41:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9551,19 +9593,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"BMpUBC4e0khVsAdibSsSlIrkJCpAuUkqKgxTA6JU2P8=\""
+          "Value": "W/\"bk/PR+WJ95P2pTKUC0PG7v5E3kOT/2gly+ETRHZz0Q4=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-BMpUBC4e0khVsAdibSsSlIrkJCpAuUkqKgxTA6JU2P8="
+          "Value": "sha256-bk/PR+WJ95P2pTKUC0PG7v5E3kOT/2gly+ETRHZz0Q4="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "C:\\Users\\estagioCotin2\\Documents\\EstudosVS\\Balta.io\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\mvidceechf-kgvftslgcb.gz",
+      "AssetFile": "C:\\Users\\estagioCotin2\\Documents\\EstudosVS\\Balta.io\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\mvidceechf-m3lbdhuako.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9572,7 +9614,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12479"
+          "Value": "12477"
         },
         {
           "Name": "Content-Type",
@@ -9580,11 +9622,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"pn8lT3UI7zP38RBzoaJtAG+9Pb2EEsbm6Pc7pzUl6m8=\""
+          "Value": "\"2ZXplk8WXkiowdZF/tKd/1GtoHHWk6sv+5UVg/zlcRQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Oct 2024 21:17:22 GMT"
+          "Value": "Mon, 14 Oct 2024 18:41:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9602,7 +9644,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-pn8lT3UI7zP38RBzoaJtAG+9Pb2EEsbm6Pc7pzUl6m8="
+          "Value": "sha256-2ZXplk8WXkiowdZF/tKd/1GtoHHWk6sv+5UVg/zlcRQ="
         }
       ]
     },
@@ -9668,7 +9710,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Oct 2024 21:17:21 GMT"
+          "Value": "Tue, 06 Aug 2024 14:50:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9721,7 +9763,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Oct 2024 21:17:21 GMT"
+          "Value": "Tue, 06 Aug 2024 14:50:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9744,7 +9786,7 @@
       ]
     },
     {
-      "Route": "_framework/Dima.Web.eilfafanc2.wasm",
+      "Route": "_framework/Dima.Web.mr0bud2hnh.wasm",
       "AssetFile": "C:\\Users\\estagioCotin2\\Documents\\EstudosVS\\Balta.io\\Dima\\Dima.Web\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Dima.Web.wasm",
       "Selectors": [],
       "ResponseHeaders": [
@@ -9754,7 +9796,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "11541"
+          "Value": "14613"
         },
         {
           "Name": "Content-Type",
@@ -9762,11 +9804,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Wp9CSOsl26za6JT9e0wHif3sjR96KP/4G7pzvS6tzfQ=\""
+          "Value": "\"XpUx/1iXkLad7iDmYJkFfWXl5cmIivSCgUFEk8E4ioM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Oct 2024 21:17:21 GMT"
+          "Value": "Mon, 14 Oct 2024 18:42:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9776,7 +9818,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "eilfafanc2"
+          "Value": "mr0bud2hnh"
         },
         {
           "Name": "label",
@@ -9784,18 +9826,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Wp9CSOsl26za6JT9e0wHif3sjR96KP/4G7pzvS6tzfQ="
+          "Value": "sha256-XpUx/1iXkLad7iDmYJkFfWXl5cmIivSCgUFEk8E4ioM="
         }
       ]
     },
     {
-      "Route": "_framework/Dima.Web.eilfafanc2.wasm",
-      "AssetFile": "C:\\Users\\estagioCotin2\\Documents\\EstudosVS\\Balta.io\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\xujp3esvxf-eilfafanc2.gz",
+      "Route": "_framework/Dima.Web.mr0bud2hnh.wasm",
+      "AssetFile": "C:\\Users\\estagioCotin2\\Documents\\EstudosVS\\Balta.io\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\xujp3esvxf-mr0bud2hnh.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0,000190476190"
+          "Quality": "0,000153350713"
         }
       ],
       "ResponseHeaders": [
@@ -9805,15 +9847,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5249"
+          "Value": "6520"
         },
         {
           "Name": "ETag",
-          "Value": "\"jrJ0cMmg7qUO/H3qWKldwrxE0i3K+SSJEgqDHtPtux4=\""
+          "Value": "\"chxB7F+F+iOH2ffbXEwEK0NRWG+E7i/Dfc9IlZooh+0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Oct 2024 21:17:21 GMT"
+          "Value": "Mon, 14 Oct 2024 18:42:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9833,13 +9875,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"Wp9CSOsl26za6JT9e0wHif3sjR96KP/4G7pzvS6tzfQ=\""
+          "Value": "W/\"XpUx/1iXkLad7iDmYJkFfWXl5cmIivSCgUFEk8E4ioM=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "eilfafanc2"
+          "Value": "mr0bud2hnh"
         },
         {
           "Name": "label",
@@ -9847,13 +9889,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Wp9CSOsl26za6JT9e0wHif3sjR96KP/4G7pzvS6tzfQ="
+          "Value": "sha256-XpUx/1iXkLad7iDmYJkFfWXl5cmIivSCgUFEk8E4ioM="
         }
       ]
     },
     {
-      "Route": "_framework/Dima.Web.eilfafanc2.wasm.gz",
-      "AssetFile": "C:\\Users\\estagioCotin2\\Documents\\EstudosVS\\Balta.io\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\xujp3esvxf-eilfafanc2.gz",
+      "Route": "_framework/Dima.Web.mr0bud2hnh.wasm.gz",
+      "AssetFile": "C:\\Users\\estagioCotin2\\Documents\\EstudosVS\\Balta.io\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\xujp3esvxf-mr0bud2hnh.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9862,7 +9904,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5249"
+          "Value": "6520"
         },
         {
           "Name": "Content-Type",
@@ -9870,11 +9912,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"jrJ0cMmg7qUO/H3qWKldwrxE0i3K+SSJEgqDHtPtux4=\""
+          "Value": "\"chxB7F+F+iOH2ffbXEwEK0NRWG+E7i/Dfc9IlZooh+0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Oct 2024 21:17:21 GMT"
+          "Value": "Mon, 14 Oct 2024 18:42:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9892,7 +9934,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "eilfafanc2"
+          "Value": "mr0bud2hnh"
         },
         {
           "Name": "label",
@@ -9900,12 +9942,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-jrJ0cMmg7qUO/H3qWKldwrxE0i3K+SSJEgqDHtPtux4="
+          "Value": "sha256-chxB7F+F+iOH2ffbXEwEK0NRWG+E7i/Dfc9IlZooh+0="
         }
       ]
     },
     {
-      "Route": "_framework/Dima.Web.pdb",
+      "Route": "_framework/Dima.Web.o9dw7kf7gu.pdb",
       "AssetFile": "C:\\Users\\estagioCotin2\\Documents\\EstudosVS\\Balta.io\\Dima\\Dima.Web\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Dima.Web.pdb",
       "Selectors": [],
       "ResponseHeaders": [
@@ -9915,7 +9957,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "20008"
+          "Value": "23064"
         },
         {
           "Name": "Content-Type",
@@ -9923,148 +9965,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"0gZXCWtSqG9NMLgNjTA7ifho0XO+Qs7xQruB0J1tDJI=\""
+          "Value": "\"1A0jobnGv8iEqAhjmnXzjqDpKvjnIEqOSLLSp4pTE5k=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Oct 2024 21:17:20 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-0gZXCWtSqG9NMLgNjTA7ifho0XO+Qs7xQruB0J1tDJI="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/Dima.Web.pdb",
-      "AssetFile": "C:\\Users\\estagioCotin2\\Documents\\EstudosVS\\Balta.io\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\6rm4iddht2-qmyqxtg63m.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0,000071143995"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "14055"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"0NySM2r1n7ApO5ocCQ9qmm//8B41pLVI1oy0EA8Z+bM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 10 Oct 2024 21:17:22 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octect-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"0gZXCWtSqG9NMLgNjTA7ifho0XO+Qs7xQruB0J1tDJI=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-0gZXCWtSqG9NMLgNjTA7ifho0XO+Qs7xQruB0J1tDJI="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/Dima.Web.pdb.gz",
-      "AssetFile": "C:\\Users\\estagioCotin2\\Documents\\EstudosVS\\Balta.io\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\6rm4iddht2-qmyqxtg63m.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "14055"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octect-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"0NySM2r1n7ApO5ocCQ9qmm//8B41pLVI1oy0EA8Z+bM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 10 Oct 2024 21:17:22 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-0NySM2r1n7ApO5ocCQ9qmm//8B41pLVI1oy0EA8Z+bM="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/Dima.Web.qmyqxtg63m.pdb",
-      "AssetFile": "C:\\Users\\estagioCotin2\\Documents\\EstudosVS\\Balta.io\\Dima\\Dima.Web\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Dima.Web.pdb",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "20008"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octect-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"0gZXCWtSqG9NMLgNjTA7ifho0XO+Qs7xQruB0J1tDJI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 10 Oct 2024 21:17:20 GMT"
+          "Value": "Mon, 14 Oct 2024 18:42:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10074,7 +9979,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "qmyqxtg63m"
+          "Value": "o9dw7kf7gu"
         },
         {
           "Name": "label",
@@ -10082,18 +9987,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-0gZXCWtSqG9NMLgNjTA7ifho0XO+Qs7xQruB0J1tDJI="
+          "Value": "sha256-1A0jobnGv8iEqAhjmnXzjqDpKvjnIEqOSLLSp4pTE5k="
         }
       ]
     },
     {
-      "Route": "_framework/Dima.Web.qmyqxtg63m.pdb",
-      "AssetFile": "C:\\Users\\estagioCotin2\\Documents\\EstudosVS\\Balta.io\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\6rm4iddht2-qmyqxtg63m.gz",
+      "Route": "_framework/Dima.Web.o9dw7kf7gu.pdb",
+      "AssetFile": "C:\\Users\\estagioCotin2\\Documents\\EstudosVS\\Balta.io\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\6rm4iddht2-o9dw7kf7gu.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0,000071143995"
+          "Quality": "0,000059984404"
         }
       ],
       "ResponseHeaders": [
@@ -10103,15 +10008,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "14055"
+          "Value": "16670"
         },
         {
           "Name": "ETag",
-          "Value": "\"0NySM2r1n7ApO5ocCQ9qmm//8B41pLVI1oy0EA8Z+bM=\""
+          "Value": "\"rD4OjE1Hlao67zzKK3IRCufSVQrdFcGOPD7arCiWfZ0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Oct 2024 21:17:22 GMT"
+          "Value": "Mon, 14 Oct 2024 18:42:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10131,13 +10036,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"0gZXCWtSqG9NMLgNjTA7ifho0XO+Qs7xQruB0J1tDJI=\""
+          "Value": "W/\"1A0jobnGv8iEqAhjmnXzjqDpKvjnIEqOSLLSp4pTE5k=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "qmyqxtg63m"
+          "Value": "o9dw7kf7gu"
         },
         {
           "Name": "label",
@@ -10145,13 +10050,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-0gZXCWtSqG9NMLgNjTA7ifho0XO+Qs7xQruB0J1tDJI="
+          "Value": "sha256-1A0jobnGv8iEqAhjmnXzjqDpKvjnIEqOSLLSp4pTE5k="
         }
       ]
     },
     {
-      "Route": "_framework/Dima.Web.qmyqxtg63m.pdb.gz",
-      "AssetFile": "C:\\Users\\estagioCotin2\\Documents\\EstudosVS\\Balta.io\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\6rm4iddht2-qmyqxtg63m.gz",
+      "Route": "_framework/Dima.Web.o9dw7kf7gu.pdb.gz",
+      "AssetFile": "C:\\Users\\estagioCotin2\\Documents\\EstudosVS\\Balta.io\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\6rm4iddht2-o9dw7kf7gu.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10160,7 +10065,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "14055"
+          "Value": "16670"
         },
         {
           "Name": "Content-Type",
@@ -10168,11 +10073,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"0NySM2r1n7ApO5ocCQ9qmm//8B41pLVI1oy0EA8Z+bM=\""
+          "Value": "\"rD4OjE1Hlao67zzKK3IRCufSVQrdFcGOPD7arCiWfZ0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Oct 2024 21:17:22 GMT"
+          "Value": "Mon, 14 Oct 2024 18:42:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10190,7 +10095,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "qmyqxtg63m"
+          "Value": "o9dw7kf7gu"
         },
         {
           "Name": "label",
@@ -10198,7 +10103,144 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-0NySM2r1n7ApO5ocCQ9qmm//8B41pLVI1oy0EA8Z+bM="
+          "Value": "sha256-rD4OjE1Hlao67zzKK3IRCufSVQrdFcGOPD7arCiWfZ0="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/Dima.Web.pdb",
+      "AssetFile": "C:\\Users\\estagioCotin2\\Documents\\EstudosVS\\Balta.io\\Dima\\Dima.Web\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Dima.Web.pdb",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23064"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octect-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1A0jobnGv8iEqAhjmnXzjqDpKvjnIEqOSLLSp4pTE5k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Oct 2024 18:42:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1A0jobnGv8iEqAhjmnXzjqDpKvjnIEqOSLLSp4pTE5k="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/Dima.Web.pdb",
+      "AssetFile": "C:\\Users\\estagioCotin2\\Documents\\EstudosVS\\Balta.io\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\6rm4iddht2-o9dw7kf7gu.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0,000059984404"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16670"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rD4OjE1Hlao67zzKK3IRCufSVQrdFcGOPD7arCiWfZ0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Oct 2024 18:42:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octect-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"1A0jobnGv8iEqAhjmnXzjqDpKvjnIEqOSLLSp4pTE5k=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1A0jobnGv8iEqAhjmnXzjqDpKvjnIEqOSLLSp4pTE5k="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/Dima.Web.pdb.gz",
+      "AssetFile": "C:\\Users\\estagioCotin2\\Documents\\EstudosVS\\Balta.io\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\6rm4iddht2-o9dw7kf7gu.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16670"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octect-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rD4OjE1Hlao67zzKK3IRCufSVQrdFcGOPD7arCiWfZ0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Oct 2024 18:42:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rD4OjE1Hlao67zzKK3IRCufSVQrdFcGOPD7arCiWfZ0="
         }
       ]
     },
@@ -10213,7 +10255,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "11541"
+          "Value": "14613"
         },
         {
           "Name": "Content-Type",
@@ -10221,11 +10263,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Wp9CSOsl26za6JT9e0wHif3sjR96KP/4G7pzvS6tzfQ=\""
+          "Value": "\"XpUx/1iXkLad7iDmYJkFfWXl5cmIivSCgUFEk8E4ioM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Oct 2024 21:17:21 GMT"
+          "Value": "Mon, 14 Oct 2024 18:42:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10235,18 +10277,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Wp9CSOsl26za6JT9e0wHif3sjR96KP/4G7pzvS6tzfQ="
+          "Value": "sha256-XpUx/1iXkLad7iDmYJkFfWXl5cmIivSCgUFEk8E4ioM="
         }
       ]
     },
     {
       "Route": "_framework/Dima.Web.wasm",
-      "AssetFile": "C:\\Users\\estagioCotin2\\Documents\\EstudosVS\\Balta.io\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\xujp3esvxf-eilfafanc2.gz",
+      "AssetFile": "C:\\Users\\estagioCotin2\\Documents\\EstudosVS\\Balta.io\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\xujp3esvxf-mr0bud2hnh.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0,000190476190"
+          "Quality": "0,000153350713"
         }
       ],
       "ResponseHeaders": [
@@ -10256,15 +10298,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5249"
+          "Value": "6520"
         },
         {
           "Name": "ETag",
-          "Value": "\"jrJ0cMmg7qUO/H3qWKldwrxE0i3K+SSJEgqDHtPtux4=\""
+          "Value": "\"chxB7F+F+iOH2ffbXEwEK0NRWG+E7i/Dfc9IlZooh+0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Oct 2024 21:17:21 GMT"
+          "Value": "Mon, 14 Oct 2024 18:42:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10284,19 +10326,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"Wp9CSOsl26za6JT9e0wHif3sjR96KP/4G7pzvS6tzfQ=\""
+          "Value": "W/\"XpUx/1iXkLad7iDmYJkFfWXl5cmIivSCgUFEk8E4ioM=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Wp9CSOsl26za6JT9e0wHif3sjR96KP/4G7pzvS6tzfQ="
+          "Value": "sha256-XpUx/1iXkLad7iDmYJkFfWXl5cmIivSCgUFEk8E4ioM="
         }
       ]
     },
     {
       "Route": "_framework/Dima.Web.wasm.gz",
-      "AssetFile": "C:\\Users\\estagioCotin2\\Documents\\EstudosVS\\Balta.io\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\xujp3esvxf-eilfafanc2.gz",
+      "AssetFile": "C:\\Users\\estagioCotin2\\Documents\\EstudosVS\\Balta.io\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\xujp3esvxf-mr0bud2hnh.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10305,7 +10347,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5249"
+          "Value": "6520"
         },
         {
           "Name": "Content-Type",
@@ -10313,11 +10355,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"jrJ0cMmg7qUO/H3qWKldwrxE0i3K+SSJEgqDHtPtux4=\""
+          "Value": "\"chxB7F+F+iOH2ffbXEwEK0NRWG+E7i/Dfc9IlZooh+0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Oct 2024 21:17:21 GMT"
+          "Value": "Mon, 14 Oct 2024 18:42:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10335,7 +10377,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-jrJ0cMmg7qUO/H3qWKldwrxE0i3K+SSJEgqDHtPtux4="
+          "Value": "sha256-chxB7F+F+iOH2ffbXEwEK0NRWG+E7i/Dfc9IlZooh+0="
         }
       ]
     },
@@ -10409,7 +10451,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Oct 2024 21:17:21 GMT"
+          "Value": "Mon, 05 Aug 2024 21:11:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10470,7 +10512,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Oct 2024 21:17:21 GMT"
+          "Value": "Mon, 05 Aug 2024 21:11:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10562,7 +10604,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Oct 2024 21:17:21 GMT"
+          "Value": "Mon, 05 Aug 2024 21:11:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10615,7 +10657,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Oct 2024 21:17:21 GMT"
+          "Value": "Mon, 05 Aug 2024 21:11:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10707,7 +10749,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Oct 2024 21:17:21 GMT"
+          "Value": "Mon, 05 Aug 2024 21:11:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10768,7 +10810,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Oct 2024 21:17:21 GMT"
+          "Value": "Mon, 05 Aug 2024 21:11:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10860,7 +10902,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Oct 2024 21:17:21 GMT"
+          "Value": "Mon, 05 Aug 2024 21:11:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10913,7 +10955,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Oct 2024 21:17:21 GMT"
+          "Value": "Mon, 05 Aug 2024 21:11:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11854,7 +11896,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Oct 2024 21:17:21 GMT"
+          "Value": "Mon, 05 Aug 2024 21:11:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11915,7 +11957,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Oct 2024 21:17:21 GMT"
+          "Value": "Mon, 05 Aug 2024 21:11:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12052,7 +12094,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Oct 2024 21:17:21 GMT"
+          "Value": "Mon, 05 Aug 2024 21:11:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12105,7 +12147,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Oct 2024 21:17:21 GMT"
+          "Value": "Mon, 05 Aug 2024 21:11:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -71974,6 +72016,170 @@
       ]
     },
     {
+      "Route": "img/dima.blydhmv3f6.png",
+      "AssetFile": "C:\\Users\\estagioCotin2\\Documents\\EstudosVS\\Balta.io\\Dima\\Dima.Web\\wwwroot\\img\\dima.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12217"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"X2ncdkhTVjsHaFO7m9+uPsG6OF/qX59I3mXhF9qs89I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Oct 2024 18:10:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "blydhmv3f6"
+        },
+        {
+          "Name": "label",
+          "Value": "img/dima.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-X2ncdkhTVjsHaFO7m9+uPsG6OF/qX59I3mXhF9qs89I="
+        }
+      ]
+    },
+    {
+      "Route": "img/dima.png",
+      "AssetFile": "C:\\Users\\estagioCotin2\\Documents\\EstudosVS\\Balta.io\\Dima\\Dima.Web\\wwwroot\\img\\dima.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12217"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"X2ncdkhTVjsHaFO7m9+uPsG6OF/qX59I3mXhF9qs89I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Oct 2024 18:10:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-X2ncdkhTVjsHaFO7m9+uPsG6OF/qX59I3mXhF9qs89I="
+        }
+      ]
+    },
+    {
+      "Route": "img/logo.56cike5pjh.png",
+      "AssetFile": "C:\\Users\\estagioCotin2\\Documents\\EstudosVS\\Balta.io\\Dima\\Dima.Web\\wwwroot\\img\\logo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6380"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"49XGfwW7cFuQoqcDEp+/ePQYKCMc+z257Ql0e93Jfy4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Oct 2024 18:10:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "56cike5pjh"
+        },
+        {
+          "Name": "label",
+          "Value": "img/logo.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-49XGfwW7cFuQoqcDEp+/ePQYKCMc+z257Ql0e93Jfy4="
+        }
+      ]
+    },
+    {
+      "Route": "img/logo.png",
+      "AssetFile": "C:\\Users\\estagioCotin2\\Documents\\EstudosVS\\Balta.io\\Dima\\Dima.Web\\wwwroot\\img\\logo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6380"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"49XGfwW7cFuQoqcDEp+/ePQYKCMc+z257Ql0e93Jfy4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Oct 2024 18:10:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-49XGfwW7cFuQoqcDEp+/ePQYKCMc+z257Ql0e93Jfy4="
+        }
+      ]
+    },
+    {
       "Route": "index.html",
       "AssetFile": "C:\\Users\\estagioCotin2\\Documents\\EstudosVS\\Balta.io\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\4kdbiz5be3-snax9k23dc.gz",
       "Selectors": [
@@ -72869,12 +73075,12 @@
     },
     {
       "Route": "service-worker-assets.js",
-      "AssetFile": "C:\\Users\\estagioCotin2\\Documents\\EstudosVS\\Balta.io\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\1yfefky1x0-htku9mwind.gz",
+      "AssetFile": "C:\\Users\\estagioCotin2\\Documents\\EstudosVS\\Balta.io\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\1yfefky1x0-g3tpd1i71z.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0,000089373492"
+          "Quality": "0,000088652482"
         }
       ],
       "ResponseHeaders": [
@@ -72884,15 +73090,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "11188"
+          "Value": "11279"
         },
         {
           "Name": "ETag",
-          "Value": "\"rn1AjtG/XJ42lh3OxC9Zo5Y+fSJia9Ccc9QspPTqEcU=\""
+          "Value": "\"Z5zPt/D1KDqoorJPdqZSh3Jl3npPbvFdLRRYv5qYs0E=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Oct 2024 21:17:21 GMT"
+          "Value": "Mon, 14 Oct 2024 18:42:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -72912,13 +73118,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"5QW0jfxf5dQJg/Dqi6hs4xBJqXw5CIOoa0pz1fAx75s=\""
+          "Value": "W/\"dO8FHHJb1ISkfMkPnR0noJR/k6/IUpkCivyIfB2wwz0=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-5QW0jfxf5dQJg/Dqi6hs4xBJqXw5CIOoa0pz1fAx75s="
+          "Value": "sha256-dO8FHHJb1ISkfMkPnR0noJR/k6/IUpkCivyIfB2wwz0="
         }
       ]
     },
@@ -72933,7 +73139,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "33279"
+          "Value": "33507"
         },
         {
           "Name": "Content-Type",
@@ -72941,11 +73147,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"5QW0jfxf5dQJg/Dqi6hs4xBJqXw5CIOoa0pz1fAx75s=\""
+          "Value": "\"dO8FHHJb1ISkfMkPnR0noJR/k6/IUpkCivyIfB2wwz0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Oct 2024 21:17:21 GMT"
+          "Value": "Mon, 14 Oct 2024 18:42:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -72955,13 +73161,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-5QW0jfxf5dQJg/Dqi6hs4xBJqXw5CIOoa0pz1fAx75s="
+          "Value": "sha256-dO8FHHJb1ISkfMkPnR0noJR/k6/IUpkCivyIfB2wwz0="
         }
       ]
     },
     {
       "Route": "service-worker-assets.js.gz",
-      "AssetFile": "C:\\Users\\estagioCotin2\\Documents\\EstudosVS\\Balta.io\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\1yfefky1x0-htku9mwind.gz",
+      "AssetFile": "C:\\Users\\estagioCotin2\\Documents\\EstudosVS\\Balta.io\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\1yfefky1x0-g3tpd1i71z.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -72970,7 +73176,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "11188"
+          "Value": "11279"
         },
         {
           "Name": "Content-Type",
@@ -72978,11 +73184,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"rn1AjtG/XJ42lh3OxC9Zo5Y+fSJia9Ccc9QspPTqEcU=\""
+          "Value": "\"Z5zPt/D1KDqoorJPdqZSh3Jl3npPbvFdLRRYv5qYs0E=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Oct 2024 21:17:21 GMT"
+          "Value": "Mon, 14 Oct 2024 18:42:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -73000,13 +73206,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-rn1AjtG/XJ42lh3OxC9Zo5Y+fSJia9Ccc9QspPTqEcU="
+          "Value": "sha256-Z5zPt/D1KDqoorJPdqZSh3Jl3npPbvFdLRRYv5qYs0E="
         }
       ]
     },
     {
       "Route": "service-worker.js",
-      "AssetFile": "C:\\Users\\estagioCotin2\\Documents\\EstudosVS\\Balta.io\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\70vn0rd6h7-5o0hg51her.gz",
+      "AssetFile": "C:\\Users\\estagioCotin2\\Documents\\EstudosVS\\Balta.io\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\70vn0rd6h7-gf5h28ha77.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -73029,7 +73235,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Oct 2024 21:17:21 GMT"
+          "Value": "Mon, 14 Oct 2024 18:42:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -73049,13 +73255,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"pbGW2tHyH/NVQF2dCtXiA1CBhpJft4VZwqIRDPCozes=\""
+          "Value": "W/\"RNhp2czLdRmKTvAswP6syOvX78+Hp078TQ18UvwdaAs=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-pbGW2tHyH/NVQF2dCtXiA1CBhpJft4VZwqIRDPCozes="
+          "Value": "sha256-RNhp2czLdRmKTvAswP6syOvX78+Hp078TQ18UvwdaAs="
         }
       ]
     },
@@ -73078,7 +73284,7 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"pbGW2tHyH/NVQF2dCtXiA1CBhpJft4VZwqIRDPCozes=\""
+          "Value": "\"RNhp2czLdRmKTvAswP6syOvX78+Hp078TQ18UvwdaAs=\""
         },
         {
           "Name": "Last-Modified",
@@ -73092,13 +73298,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-pbGW2tHyH/NVQF2dCtXiA1CBhpJft4VZwqIRDPCozes="
+          "Value": "sha256-RNhp2czLdRmKTvAswP6syOvX78+Hp078TQ18UvwdaAs="
         }
       ]
     },
     {
       "Route": "service-worker.js.gz",
-      "AssetFile": "C:\\Users\\estagioCotin2\\Documents\\EstudosVS\\Balta.io\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\70vn0rd6h7-5o0hg51her.gz",
+      "AssetFile": "C:\\Users\\estagioCotin2\\Documents\\EstudosVS\\Balta.io\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\70vn0rd6h7-gf5h28ha77.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -73119,7 +73325,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Oct 2024 21:17:21 GMT"
+          "Value": "Mon, 14 Oct 2024 18:42:38 GMT"
         },
         {
           "Name": "Cache-Control",

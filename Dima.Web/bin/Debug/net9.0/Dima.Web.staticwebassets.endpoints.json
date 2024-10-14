@@ -276,8 +276,8 @@
       ]
     },
     {
-      "Route": "_framework/Dima.Web.eilfafanc2.wasm",
-      "AssetFile": "_framework/Dima.Web.eilfafanc2.wasm",
+      "Route": "_framework/Dima.Web.mr0bud2hnh.wasm",
+      "AssetFile": "_framework/Dima.Web.mr0bud2hnh.wasm",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -290,7 +290,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "11541"
+          "Value": "14613"
         },
         {
           "Name": "Content-Type",
@@ -298,21 +298,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Wp9CSOsl26za6JT9e0wHif3sjR96KP/4G7pzvS6tzfQ=\""
+          "Value": "\"XpUx/1iXkLad7iDmYJkFfWXl5cmIivSCgUFEk8E4ioM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Oct 2024 21:17:21 GMT"
+          "Value": "Mon, 14 Oct 2024 18:42:38 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "eilfafanc2"
+          "Value": "mr0bud2hnh"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Wp9CSOsl26za6JT9e0wHif3sjR96KP/4G7pzvS6tzfQ="
+          "Value": "sha256-XpUx/1iXkLad7iDmYJkFfWXl5cmIivSCgUFEk8E4ioM="
         },
         {
           "Name": "label",
@@ -321,13 +321,13 @@
       ]
     },
     {
-      "Route": "_framework/Dima.Web.eilfafanc2.wasm",
-      "AssetFile": "_framework/Dima.Web.eilfafanc2.wasm.gz",
+      "Route": "_framework/Dima.Web.mr0bud2hnh.wasm",
+      "AssetFile": "_framework/Dima.Web.mr0bud2hnh.wasm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0,000190476190"
+          "Quality": "0,000153350713"
         }
       ],
       "ResponseHeaders": [
@@ -345,7 +345,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5249"
+          "Value": "6520"
         },
         {
           "Name": "Content-Type",
@@ -353,15 +353,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"jrJ0cMmg7qUO/H3qWKldwrxE0i3K+SSJEgqDHtPtux4=\""
+          "Value": "\"chxB7F+F+iOH2ffbXEwEK0NRWG+E7i/Dfc9IlZooh+0=\""
         },
         {
           "Name": "ETag",
-          "Value": "W/\"Wp9CSOsl26za6JT9e0wHif3sjR96KP/4G7pzvS6tzfQ=\""
+          "Value": "W/\"XpUx/1iXkLad7iDmYJkFfWXl5cmIivSCgUFEk8E4ioM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Oct 2024 21:17:21 GMT"
+          "Value": "Mon, 14 Oct 2024 18:42:38 GMT"
         },
         {
           "Name": "Vary",
@@ -371,11 +371,11 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "eilfafanc2"
+          "Value": "mr0bud2hnh"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Wp9CSOsl26za6JT9e0wHif3sjR96KP/4G7pzvS6tzfQ="
+          "Value": "sha256-XpUx/1iXkLad7iDmYJkFfWXl5cmIivSCgUFEk8E4ioM="
         },
         {
           "Name": "label",
@@ -384,8 +384,8 @@
       ]
     },
     {
-      "Route": "_framework/Dima.Web.eilfafanc2.wasm.gz",
-      "AssetFile": "_framework/Dima.Web.eilfafanc2.wasm.gz",
+      "Route": "_framework/Dima.Web.mr0bud2hnh.wasm.gz",
+      "AssetFile": "_framework/Dima.Web.mr0bud2hnh.wasm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -402,7 +402,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5249"
+          "Value": "6520"
         },
         {
           "Name": "Content-Type",
@@ -410,11 +410,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"jrJ0cMmg7qUO/H3qWKldwrxE0i3K+SSJEgqDHtPtux4=\""
+          "Value": "\"chxB7F+F+iOH2ffbXEwEK0NRWG+E7i/Dfc9IlZooh+0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Oct 2024 21:17:21 GMT"
+          "Value": "Mon, 14 Oct 2024 18:42:38 GMT"
         },
         {
           "Name": "Vary",
@@ -424,11 +424,11 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "eilfafanc2"
+          "Value": "mr0bud2hnh"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-jrJ0cMmg7qUO/H3qWKldwrxE0i3K+SSJEgqDHtPtux4="
+          "Value": "sha256-chxB7F+F+iOH2ffbXEwEK0NRWG+E7i/Dfc9IlZooh+0="
         },
         {
           "Name": "label",
@@ -437,145 +437,8 @@
       ]
     },
     {
-      "Route": "_framework/Dima.Web.pdb",
-      "AssetFile": "_framework/Dima.Web.qmyqxtg63m.pdb",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "20008"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octect-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"0gZXCWtSqG9NMLgNjTA7ifho0XO+Qs7xQruB0J1tDJI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 10 Oct 2024 21:17:20 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-0gZXCWtSqG9NMLgNjTA7ifho0XO+Qs7xQruB0J1tDJI="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/Dima.Web.pdb",
-      "AssetFile": "_framework/Dima.Web.qmyqxtg63m.pdb.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0,000071143995"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "14055"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octect-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"0NySM2r1n7ApO5ocCQ9qmm//8B41pLVI1oy0EA8Z+bM=\""
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"0gZXCWtSqG9NMLgNjTA7ifho0XO+Qs7xQruB0J1tDJI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 10 Oct 2024 21:17:22 GMT"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-0gZXCWtSqG9NMLgNjTA7ifho0XO+Qs7xQruB0J1tDJI="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/Dima.Web.pdb.gz",
-      "AssetFile": "_framework/Dima.Web.qmyqxtg63m.pdb.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "14055"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octect-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"0NySM2r1n7ApO5ocCQ9qmm//8B41pLVI1oy0EA8Z+bM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 10 Oct 2024 21:17:22 GMT"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-0NySM2r1n7ApO5ocCQ9qmm//8B41pLVI1oy0EA8Z+bM="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/Dima.Web.qmyqxtg63m.pdb",
-      "AssetFile": "_framework/Dima.Web.qmyqxtg63m.pdb",
+      "Route": "_framework/Dima.Web.o9dw7kf7gu.pdb",
+      "AssetFile": "_framework/Dima.Web.o9dw7kf7gu.pdb",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -588,7 +451,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "20008"
+          "Value": "23064"
         },
         {
           "Name": "Content-Type",
@@ -596,21 +459,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"0gZXCWtSqG9NMLgNjTA7ifho0XO+Qs7xQruB0J1tDJI=\""
+          "Value": "\"1A0jobnGv8iEqAhjmnXzjqDpKvjnIEqOSLLSp4pTE5k=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Oct 2024 21:17:20 GMT"
+          "Value": "Mon, 14 Oct 2024 18:42:38 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "qmyqxtg63m"
+          "Value": "o9dw7kf7gu"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-0gZXCWtSqG9NMLgNjTA7ifho0XO+Qs7xQruB0J1tDJI="
+          "Value": "sha256-1A0jobnGv8iEqAhjmnXzjqDpKvjnIEqOSLLSp4pTE5k="
         },
         {
           "Name": "label",
@@ -619,13 +482,13 @@
       ]
     },
     {
-      "Route": "_framework/Dima.Web.qmyqxtg63m.pdb",
-      "AssetFile": "_framework/Dima.Web.qmyqxtg63m.pdb.gz",
+      "Route": "_framework/Dima.Web.o9dw7kf7gu.pdb",
+      "AssetFile": "_framework/Dima.Web.o9dw7kf7gu.pdb.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0,000071143995"
+          "Quality": "0,000059984404"
         }
       ],
       "ResponseHeaders": [
@@ -643,7 +506,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "14055"
+          "Value": "16670"
         },
         {
           "Name": "Content-Type",
@@ -651,15 +514,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"0NySM2r1n7ApO5ocCQ9qmm//8B41pLVI1oy0EA8Z+bM=\""
+          "Value": "\"rD4OjE1Hlao67zzKK3IRCufSVQrdFcGOPD7arCiWfZ0=\""
         },
         {
           "Name": "ETag",
-          "Value": "W/\"0gZXCWtSqG9NMLgNjTA7ifho0XO+Qs7xQruB0J1tDJI=\""
+          "Value": "W/\"1A0jobnGv8iEqAhjmnXzjqDpKvjnIEqOSLLSp4pTE5k=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Oct 2024 21:17:22 GMT"
+          "Value": "Mon, 14 Oct 2024 18:42:38 GMT"
         },
         {
           "Name": "Vary",
@@ -669,11 +532,11 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "qmyqxtg63m"
+          "Value": "o9dw7kf7gu"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-0gZXCWtSqG9NMLgNjTA7ifho0XO+Qs7xQruB0J1tDJI="
+          "Value": "sha256-1A0jobnGv8iEqAhjmnXzjqDpKvjnIEqOSLLSp4pTE5k="
         },
         {
           "Name": "label",
@@ -682,8 +545,8 @@
       ]
     },
     {
-      "Route": "_framework/Dima.Web.qmyqxtg63m.pdb.gz",
-      "AssetFile": "_framework/Dima.Web.qmyqxtg63m.pdb.gz",
+      "Route": "_framework/Dima.Web.o9dw7kf7gu.pdb.gz",
+      "AssetFile": "_framework/Dima.Web.o9dw7kf7gu.pdb.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -700,7 +563,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "14055"
+          "Value": "16670"
         },
         {
           "Name": "Content-Type",
@@ -708,11 +571,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"0NySM2r1n7ApO5ocCQ9qmm//8B41pLVI1oy0EA8Z+bM=\""
+          "Value": "\"rD4OjE1Hlao67zzKK3IRCufSVQrdFcGOPD7arCiWfZ0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Oct 2024 21:17:22 GMT"
+          "Value": "Mon, 14 Oct 2024 18:42:38 GMT"
         },
         {
           "Name": "Vary",
@@ -722,11 +585,11 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "qmyqxtg63m"
+          "Value": "o9dw7kf7gu"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-0NySM2r1n7ApO5ocCQ9qmm//8B41pLVI1oy0EA8Z+bM="
+          "Value": "sha256-rD4OjE1Hlao67zzKK3IRCufSVQrdFcGOPD7arCiWfZ0="
         },
         {
           "Name": "label",
@@ -735,8 +598,8 @@
       ]
     },
     {
-      "Route": "_framework/Dima.Web.wasm",
-      "AssetFile": "_framework/Dima.Web.eilfafanc2.wasm",
+      "Route": "_framework/Dima.Web.pdb",
+      "AssetFile": "_framework/Dima.Web.o9dw7kf7gu.pdb",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -749,36 +612,36 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "11541"
+          "Value": "23064"
         },
         {
           "Name": "Content-Type",
-          "Value": "application/wasm"
+          "Value": "application/octect-stream"
         },
         {
           "Name": "ETag",
-          "Value": "\"Wp9CSOsl26za6JT9e0wHif3sjR96KP/4G7pzvS6tzfQ=\""
+          "Value": "\"1A0jobnGv8iEqAhjmnXzjqDpKvjnIEqOSLLSp4pTE5k=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Oct 2024 21:17:21 GMT"
+          "Value": "Mon, 14 Oct 2024 18:42:38 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Wp9CSOsl26za6JT9e0wHif3sjR96KP/4G7pzvS6tzfQ="
+          "Value": "sha256-1A0jobnGv8iEqAhjmnXzjqDpKvjnIEqOSLLSp4pTE5k="
         }
       ]
     },
     {
-      "Route": "_framework/Dima.Web.wasm",
-      "AssetFile": "_framework/Dima.Web.eilfafanc2.wasm.gz",
+      "Route": "_framework/Dima.Web.pdb",
+      "AssetFile": "_framework/Dima.Web.o9dw7kf7gu.pdb.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0,000190476190"
+          "Quality": "0,000059984404"
         }
       ],
       "ResponseHeaders": [
@@ -796,23 +659,23 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5249"
+          "Value": "16670"
         },
         {
           "Name": "Content-Type",
-          "Value": "application/wasm"
+          "Value": "application/octect-stream"
         },
         {
           "Name": "ETag",
-          "Value": "\"jrJ0cMmg7qUO/H3qWKldwrxE0i3K+SSJEgqDHtPtux4=\""
+          "Value": "\"rD4OjE1Hlao67zzKK3IRCufSVQrdFcGOPD7arCiWfZ0=\""
         },
         {
           "Name": "ETag",
-          "Value": "W/\"Wp9CSOsl26za6JT9e0wHif3sjR96KP/4G7pzvS6tzfQ=\""
+          "Value": "W/\"1A0jobnGv8iEqAhjmnXzjqDpKvjnIEqOSLLSp4pTE5k=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Oct 2024 21:17:21 GMT"
+          "Value": "Mon, 14 Oct 2024 18:42:38 GMT"
         },
         {
           "Name": "Vary",
@@ -822,13 +685,150 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Wp9CSOsl26za6JT9e0wHif3sjR96KP/4G7pzvS6tzfQ="
+          "Value": "sha256-1A0jobnGv8iEqAhjmnXzjqDpKvjnIEqOSLLSp4pTE5k="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/Dima.Web.pdb.gz",
+      "AssetFile": "_framework/Dima.Web.o9dw7kf7gu.pdb.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16670"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octect-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rD4OjE1Hlao67zzKK3IRCufSVQrdFcGOPD7arCiWfZ0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Oct 2024 18:42:38 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rD4OjE1Hlao67zzKK3IRCufSVQrdFcGOPD7arCiWfZ0="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/Dima.Web.wasm",
+      "AssetFile": "_framework/Dima.Web.mr0bud2hnh.wasm",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14613"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XpUx/1iXkLad7iDmYJkFfWXl5cmIivSCgUFEk8E4ioM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Oct 2024 18:42:38 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XpUx/1iXkLad7iDmYJkFfWXl5cmIivSCgUFEk8E4ioM="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/Dima.Web.wasm",
+      "AssetFile": "_framework/Dima.Web.mr0bud2hnh.wasm.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0,000153350713"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6520"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"chxB7F+F+iOH2ffbXEwEK0NRWG+E7i/Dfc9IlZooh+0=\""
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"XpUx/1iXkLad7iDmYJkFfWXl5cmIivSCgUFEk8E4ioM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Oct 2024 18:42:38 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XpUx/1iXkLad7iDmYJkFfWXl5cmIivSCgUFEk8E4ioM="
         }
       ]
     },
     {
       "Route": "_framework/Dima.Web.wasm.gz",
-      "AssetFile": "_framework/Dima.Web.eilfafanc2.wasm.gz",
+      "AssetFile": "_framework/Dima.Web.mr0bud2hnh.wasm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -845,7 +845,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5249"
+          "Value": "6520"
         },
         {
           "Name": "Content-Type",
@@ -853,11 +853,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"jrJ0cMmg7qUO/H3qWKldwrxE0i3K+SSJEgqDHtPtux4=\""
+          "Value": "\"chxB7F+F+iOH2ffbXEwEK0NRWG+E7i/Dfc9IlZooh+0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Oct 2024 21:17:21 GMT"
+          "Value": "Mon, 14 Oct 2024 18:42:38 GMT"
         },
         {
           "Name": "Vary",
@@ -867,7 +867,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-jrJ0cMmg7qUO/H3qWKldwrxE0i3K+SSJEgqDHtPtux4="
+          "Value": "sha256-chxB7F+F+iOH2ffbXEwEK0NRWG+E7i/Dfc9IlZooh+0="
         }
       ]
     },
@@ -58110,17 +58110,17 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"BMpUBC4e0khVsAdibSsSlIrkJCpAuUkqKgxTA6JU2P8=\""
+          "Value": "\"bk/PR+WJ95P2pTKUC0PG7v5E3kOT/2gly+ETRHZz0Q4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Oct 2024 21:17:21 GMT"
+          "Value": "Mon, 14 Oct 2024 18:42:38 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-BMpUBC4e0khVsAdibSsSlIrkJCpAuUkqKgxTA6JU2P8="
+          "Value": "sha256-bk/PR+WJ95P2pTKUC0PG7v5E3kOT/2gly+ETRHZz0Q4="
         }
       ]
     },
@@ -58131,7 +58131,7 @@
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0,000080128205"
+          "Quality": "0,000080141048"
         }
       ],
       "ResponseHeaders": [
@@ -58149,7 +58149,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12479"
+          "Value": "12477"
         },
         {
           "Name": "Content-Type",
@@ -58157,15 +58157,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"pn8lT3UI7zP38RBzoaJtAG+9Pb2EEsbm6Pc7pzUl6m8=\""
+          "Value": "\"2ZXplk8WXkiowdZF/tKd/1GtoHHWk6sv+5UVg/zlcRQ=\""
         },
         {
           "Name": "ETag",
-          "Value": "W/\"BMpUBC4e0khVsAdibSsSlIrkJCpAuUkqKgxTA6JU2P8=\""
+          "Value": "W/\"bk/PR+WJ95P2pTKUC0PG7v5E3kOT/2gly+ETRHZz0Q4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Oct 2024 21:17:22 GMT"
+          "Value": "Mon, 14 Oct 2024 18:41:55 GMT"
         },
         {
           "Name": "Vary",
@@ -58175,7 +58175,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-BMpUBC4e0khVsAdibSsSlIrkJCpAuUkqKgxTA6JU2P8="
+          "Value": "sha256-bk/PR+WJ95P2pTKUC0PG7v5E3kOT/2gly+ETRHZz0Q4="
         }
       ]
     },
@@ -58198,7 +58198,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12479"
+          "Value": "12477"
         },
         {
           "Name": "Content-Type",
@@ -58206,11 +58206,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"pn8lT3UI7zP38RBzoaJtAG+9Pb2EEsbm6Pc7pzUl6m8=\""
+          "Value": "\"2ZXplk8WXkiowdZF/tKd/1GtoHHWk6sv+5UVg/zlcRQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Oct 2024 21:17:22 GMT"
+          "Value": "Mon, 14 Oct 2024 18:41:55 GMT"
         },
         {
           "Name": "Vary",
@@ -58220,7 +58220,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-pn8lT3UI7zP38RBzoaJtAG+9Pb2EEsbm6Pc7pzUl6m8="
+          "Value": "sha256-2ZXplk8WXkiowdZF/tKd/1GtoHHWk6sv+5UVg/zlcRQ="
         }
       ]
     },
@@ -58302,7 +58302,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Oct 2024 21:17:21 GMT"
+          "Value": "Tue, 06 Aug 2024 14:50:38 GMT"
         },
         {
           "Name": "Vary",
@@ -58347,7 +58347,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Oct 2024 21:17:21 GMT"
+          "Value": "Tue, 06 Aug 2024 14:50:38 GMT"
         },
         {
           "Name": "Vary",
@@ -58447,7 +58447,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Oct 2024 21:17:21 GMT"
+          "Value": "Mon, 05 Aug 2024 21:11:34 GMT"
         },
         {
           "Name": "Vary",
@@ -58500,7 +58500,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Oct 2024 21:17:21 GMT"
+          "Value": "Mon, 05 Aug 2024 21:11:34 GMT"
         },
         {
           "Name": "Vary",
@@ -58600,7 +58600,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Oct 2024 21:17:21 GMT"
+          "Value": "Mon, 05 Aug 2024 21:11:34 GMT"
         },
         {
           "Name": "Vary",
@@ -58645,7 +58645,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Oct 2024 21:17:21 GMT"
+          "Value": "Mon, 05 Aug 2024 21:11:34 GMT"
         },
         {
           "Name": "Vary",
@@ -58745,7 +58745,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Oct 2024 21:17:21 GMT"
+          "Value": "Mon, 05 Aug 2024 21:11:34 GMT"
         },
         {
           "Name": "Vary",
@@ -58798,7 +58798,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Oct 2024 21:17:21 GMT"
+          "Value": "Mon, 05 Aug 2024 21:11:34 GMT"
         },
         {
           "Name": "Vary",
@@ -58898,7 +58898,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Oct 2024 21:17:21 GMT"
+          "Value": "Mon, 05 Aug 2024 21:11:34 GMT"
         },
         {
           "Name": "Vary",
@@ -58943,7 +58943,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Oct 2024 21:17:21 GMT"
+          "Value": "Mon, 05 Aug 2024 21:11:34 GMT"
         },
         {
           "Name": "Vary",
@@ -59892,7 +59892,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Oct 2024 21:17:21 GMT"
+          "Value": "Mon, 05 Aug 2024 21:11:40 GMT"
         },
         {
           "Name": "Vary",
@@ -59945,7 +59945,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Oct 2024 21:17:21 GMT"
+          "Value": "Mon, 05 Aug 2024 21:11:40 GMT"
         },
         {
           "Name": "Vary",
@@ -60090,7 +60090,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Oct 2024 21:17:21 GMT"
+          "Value": "Mon, 05 Aug 2024 21:11:40 GMT"
         },
         {
           "Name": "Vary",
@@ -60135,7 +60135,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Oct 2024 21:17:21 GMT"
+          "Value": "Mon, 05 Aug 2024 21:11:40 GMT"
         },
         {
           "Name": "Vary",
@@ -62780,6 +62780,170 @@
       ]
     },
     {
+      "Route": "img/dima.blydhmv3f6.png",
+      "AssetFile": "img/dima.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12217"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"X2ncdkhTVjsHaFO7m9+uPsG6OF/qX59I3mXhF9qs89I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Oct 2024 18:10:26 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "blydhmv3f6"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-X2ncdkhTVjsHaFO7m9+uPsG6OF/qX59I3mXhF9qs89I="
+        },
+        {
+          "Name": "label",
+          "Value": "img/dima.png"
+        }
+      ]
+    },
+    {
+      "Route": "img/dima.png",
+      "AssetFile": "img/dima.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12217"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"X2ncdkhTVjsHaFO7m9+uPsG6OF/qX59I3mXhF9qs89I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Oct 2024 18:10:26 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-X2ncdkhTVjsHaFO7m9+uPsG6OF/qX59I3mXhF9qs89I="
+        }
+      ]
+    },
+    {
+      "Route": "img/logo.56cike5pjh.png",
+      "AssetFile": "img/logo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6380"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"49XGfwW7cFuQoqcDEp+/ePQYKCMc+z257Ql0e93Jfy4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Oct 2024 18:10:29 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "56cike5pjh"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-49XGfwW7cFuQoqcDEp+/ePQYKCMc+z257Ql0e93Jfy4="
+        },
+        {
+          "Name": "label",
+          "Value": "img/logo.png"
+        }
+      ]
+    },
+    {
+      "Route": "img/logo.png",
+      "AssetFile": "img/logo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6380"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"49XGfwW7cFuQoqcDEp+/ePQYKCMc+z257Ql0e93Jfy4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Oct 2024 18:10:29 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-49XGfwW7cFuQoqcDEp+/ePQYKCMc+z257Ql0e93Jfy4="
+        }
+      ]
+    },
+    {
       "Route": "index.html",
       "AssetFile": "index.html.gz",
       "Selectors": [
@@ -63680,7 +63844,7 @@
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0,000089373492"
+          "Quality": "0,000088652482"
         }
       ],
       "ResponseHeaders": [
@@ -63698,7 +63862,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "11188"
+          "Value": "11279"
         },
         {
           "Name": "Content-Type",
@@ -63706,15 +63870,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"rn1AjtG/XJ42lh3OxC9Zo5Y+fSJia9Ccc9QspPTqEcU=\""
+          "Value": "\"Z5zPt/D1KDqoorJPdqZSh3Jl3npPbvFdLRRYv5qYs0E=\""
         },
         {
           "Name": "ETag",
-          "Value": "W/\"5QW0jfxf5dQJg/Dqi6hs4xBJqXw5CIOoa0pz1fAx75s=\""
+          "Value": "W/\"dO8FHHJb1ISkfMkPnR0noJR/k6/IUpkCivyIfB2wwz0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Oct 2024 21:17:21 GMT"
+          "Value": "Mon, 14 Oct 2024 18:42:38 GMT"
         },
         {
           "Name": "Vary",
@@ -63724,7 +63888,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-5QW0jfxf5dQJg/Dqi6hs4xBJqXw5CIOoa0pz1fAx75s="
+          "Value": "sha256-dO8FHHJb1ISkfMkPnR0noJR/k6/IUpkCivyIfB2wwz0="
         }
       ]
     },
@@ -63743,7 +63907,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "33279"
+          "Value": "33507"
         },
         {
           "Name": "Content-Type",
@@ -63751,17 +63915,17 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"5QW0jfxf5dQJg/Dqi6hs4xBJqXw5CIOoa0pz1fAx75s=\""
+          "Value": "\"dO8FHHJb1ISkfMkPnR0noJR/k6/IUpkCivyIfB2wwz0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Oct 2024 21:17:21 GMT"
+          "Value": "Mon, 14 Oct 2024 18:42:38 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-5QW0jfxf5dQJg/Dqi6hs4xBJqXw5CIOoa0pz1fAx75s="
+          "Value": "sha256-dO8FHHJb1ISkfMkPnR0noJR/k6/IUpkCivyIfB2wwz0="
         }
       ]
     },
@@ -63784,7 +63948,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "11188"
+          "Value": "11279"
         },
         {
           "Name": "Content-Type",
@@ -63792,11 +63956,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"rn1AjtG/XJ42lh3OxC9Zo5Y+fSJia9Ccc9QspPTqEcU=\""
+          "Value": "\"Z5zPt/D1KDqoorJPdqZSh3Jl3npPbvFdLRRYv5qYs0E=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Oct 2024 21:17:21 GMT"
+          "Value": "Mon, 14 Oct 2024 18:42:38 GMT"
         },
         {
           "Name": "Vary",
@@ -63806,7 +63970,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-rn1AjtG/XJ42lh3OxC9Zo5Y+fSJia9Ccc9QspPTqEcU="
+          "Value": "sha256-Z5zPt/D1KDqoorJPdqZSh3Jl3npPbvFdLRRYv5qYs0E="
         }
       ]
     },
@@ -63847,11 +64011,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"pbGW2tHyH/NVQF2dCtXiA1CBhpJft4VZwqIRDPCozes=\""
+          "Value": "W/\"RNhp2czLdRmKTvAswP6syOvX78+Hp078TQ18UvwdaAs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Oct 2024 21:17:21 GMT"
+          "Value": "Mon, 14 Oct 2024 18:42:38 GMT"
         },
         {
           "Name": "Vary",
@@ -63861,7 +64025,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-pbGW2tHyH/NVQF2dCtXiA1CBhpJft4VZwqIRDPCozes="
+          "Value": "sha256-RNhp2czLdRmKTvAswP6syOvX78+Hp078TQ18UvwdaAs="
         }
       ]
     },
@@ -63888,7 +64052,7 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"pbGW2tHyH/NVQF2dCtXiA1CBhpJft4VZwqIRDPCozes=\""
+          "Value": "\"RNhp2czLdRmKTvAswP6syOvX78+Hp078TQ18UvwdaAs=\""
         },
         {
           "Name": "Last-Modified",
@@ -63898,7 +64062,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-pbGW2tHyH/NVQF2dCtXiA1CBhpJft4VZwqIRDPCozes="
+          "Value": "sha256-RNhp2czLdRmKTvAswP6syOvX78+Hp078TQ18UvwdaAs="
         }
       ]
     },
@@ -63933,7 +64097,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Oct 2024 21:17:21 GMT"
+          "Value": "Mon, 14 Oct 2024 18:42:38 GMT"
         },
         {
           "Name": "Vary",

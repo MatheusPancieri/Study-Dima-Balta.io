@@ -29,6 +29,14 @@
       "PackagePath": "staticwebassets\\icon-512.png"
     },
     {
+      "Id": "C:\\Users\\estagioCotin2\\Documents\\EstudosVS\\Balta.io\\Dima\\Dima.Web\\wwwroot\\img\\dima.png",
+      "PackagePath": "staticwebassets\\img\\dima.png"
+    },
+    {
+      "Id": "C:\\Users\\estagioCotin2\\Documents\\EstudosVS\\Balta.io\\Dima\\Dima.Web\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
       "Id": "C:\\Users\\estagioCotin2\\Documents\\EstudosVS\\Balta.io\\Dima\\Dima.Web\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },

@@ -1,7 +1,5 @@
 C:\Users\estagioCotin2\Documents\EstudosVS\Balta.io\Dima\Dima.Web\bin\Debug\net9.0\wwwroot\_framework\blazor.boot.json
 C:\Users\estagioCotin2\Documents\EstudosVS\Balta.io\Dima\Dima.Web\bin\Debug\net9.0\wwwroot\_framework\blazor.webassembly.js
-C:\Users\estagioCotin2\Documents\EstudosVS\Balta.io\Dima\Dima.Web\bin\Debug\net9.0\wwwroot\_framework\Dima.Web.qmyqxtg63m.pdb
-C:\Users\estagioCotin2\Documents\EstudosVS\Balta.io\Dima\Dima.Web\bin\Debug\net9.0\wwwroot\_framework\Dima.Web.eilfafanc2.wasm
 C:\Users\estagioCotin2\Documents\EstudosVS\Balta.io\Dima\Dima.Web\bin\Debug\net9.0\wwwroot\_framework\dotnet.js
 C:\Users\estagioCotin2\Documents\EstudosVS\Balta.io\Dima\Dima.Web\bin\Debug\net9.0\wwwroot\_framework\dotnet.js.map
 C:\Users\estagioCotin2\Documents\EstudosVS\Balta.io\Dima\Dima.Web\bin\Debug\net9.0\wwwroot\_framework\dotnet.native.0fbbyz7uv3.js
@@ -235,7 +233,6 @@ C:\Users\estagioCotin2\Documents\EstudosVS\Balta.io\Dima\Dima.Web\bin\Debug\net9
 C:\Users\estagioCotin2\Documents\EstudosVS\Balta.io\Dima\Dima.Web\bin\Debug\net9.0\wwwroot\_framework\System.IO.FileSystem.nkmts6qdzc.wasm.gz
 C:\Users\estagioCotin2\Documents\EstudosVS\Balta.io\Dima\Dima.Web\bin\Debug\net9.0\wwwroot\_framework\System.Collections.NonGeneric.s1mfw7otck.wasm.gz
 C:\Users\estagioCotin2\Documents\EstudosVS\Balta.io\Dima\Dima.Web\bin\Debug\net9.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.j0l56ybynk.wasm.gz
-C:\Users\estagioCotin2\Documents\EstudosVS\Balta.io\Dima\Dima.Web\bin\Debug\net9.0\wwwroot\_framework\Dima.Web.qmyqxtg63m.pdb.gz
 C:\Users\estagioCotin2\Documents\EstudosVS\Balta.io\Dima\Dima.Web\bin\Debug\net9.0\wwwroot\_framework\System.AppContext.wjggkrjcdz.wasm.gz
 C:\Users\estagioCotin2\Documents\EstudosVS\Balta.io\Dima\Dima.Web\bin\Debug\net9.0\wwwroot\_framework\Microsoft.AspNetCore.Components.8n2ag8dq2h.wasm.gz
 C:\Users\estagioCotin2\Documents\EstudosVS\Balta.io\Dima\Dima.Web\bin\Debug\net9.0\wwwroot\_framework\icudt_no_CJK.lfu7j35m59.dat.gz
@@ -397,7 +394,6 @@ C:\Users\estagioCotin2\Documents\EstudosVS\Balta.io\Dima\Dima.Web\bin\Debug\net9
 C:\Users\estagioCotin2\Documents\EstudosVS\Balta.io\Dima\Dima.Web\bin\Debug\net9.0\wwwroot\_framework\System.Data.fy0beduhai.wasm.gz
 C:\Users\estagioCotin2\Documents\EstudosVS\Balta.io\Dima\Dima.Web\bin\Debug\net9.0\wwwroot\_framework\dotnet.js.map.gz
 C:\Users\estagioCotin2\Documents\EstudosVS\Balta.io\Dima\Dima.Web\bin\Debug\net9.0\wwwroot\_framework\System.Xml.XDocument.fo5sjh906d.wasm.gz
-C:\Users\estagioCotin2\Documents\EstudosVS\Balta.io\Dima\Dima.Web\bin\Debug\net9.0\wwwroot\_framework\Dima.Web.eilfafanc2.wasm.gz
 C:\Users\estagioCotin2\Documents\EstudosVS\Balta.io\Dima\Dima.Web\bin\Debug\net9.0\wwwroot\_framework\System.Web.HttpUtility.l1o886gzm0.wasm.gz
 C:\Users\estagioCotin2\Documents\EstudosVS\Balta.io\Dima\Dima.Web\bin\Debug\net9.0\wwwroot\_framework\MudBlazor.1kk5654a9w.wasm.gz
 C:\Users\estagioCotin2\Documents\EstudosVS\Balta.io\Dima\Dima.Web\bin\Debug\net9.0\wwwroot\_framework\System.Data.Common.0qycsssroq.wasm.gz
@@ -1042,11 +1038,6 @@ C:\Users\estagioCotin2\Documents\EstudosVS\Balta.io\Dima\Dima.Web\obj\Debug\net9
 C:\Users\estagioCotin2\Documents\EstudosVS\Balta.io\Dima\Dima.Web\obj\Debug\net9.0\compressed\edsgqk9fn7-tjcz0u77k5.gz
 C:\Users\estagioCotin2\Documents\EstudosVS\Balta.io\Dima\Dima.Web\obj\Debug\net9.0\compressed\r1w6mc3xm6-tptq2av103.gz
 C:\Users\estagioCotin2\Documents\EstudosVS\Balta.io\Dima\Dima.Web\obj\Debug\net9.0\compressed\6zndg2vzva-lfu7j35m59.gz
-C:\Users\estagioCotin2\Documents\EstudosVS\Balta.io\Dima\Dima.Web\obj\Debug\net9.0\compressed\xujp3esvxf-eilfafanc2.gz
-C:\Users\estagioCotin2\Documents\EstudosVS\Balta.io\Dima\Dima.Web\obj\Debug\net9.0\compressed\6rm4iddht2-qmyqxtg63m.gz
-C:\Users\estagioCotin2\Documents\EstudosVS\Balta.io\Dima\Dima.Web\obj\Debug\net9.0\compressed\mvidceechf-kgvftslgcb.gz
-C:\Users\estagioCotin2\Documents\EstudosVS\Balta.io\Dima\Dima.Web\obj\Debug\net9.0\compressed\70vn0rd6h7-5o0hg51her.gz
-C:\Users\estagioCotin2\Documents\EstudosVS\Balta.io\Dima\Dima.Web\obj\Debug\net9.0\compressed\1yfefky1x0-htku9mwind.gz
 C:\Users\estagioCotin2\Documents\EstudosVS\Balta.io\Dima\Dima.Web\obj\Debug\net9.0\staticwebassets.build.json
 C:\Users\estagioCotin2\Documents\EstudosVS\Balta.io\Dima\Dima.Web\obj\Debug\net9.0\staticwebassets.development.json
 C:\Users\estagioCotin2\Documents\EstudosVS\Balta.io\Dima\Dima.Web\obj\Debug\net9.0\staticwebassets.build.endpoints.json
@@ -1061,3 +1052,12 @@ C:\Users\estagioCotin2\Documents\EstudosVS\Balta.io\Dima\Dima.Web\obj\Debug\net9
 C:\Users\estagioCotin2\Documents\EstudosVS\Balta.io\Dima\Dima.Web\obj\Debug\net9.0\refint\Dima.Web.dll
 C:\Users\estagioCotin2\Documents\EstudosVS\Balta.io\Dima\Dima.Web\obj\Debug\net9.0\Dima.Web.pdb
 C:\Users\estagioCotin2\Documents\EstudosVS\Balta.io\Dima\Dima.Web\obj\Debug\net9.0\ref\Dima.Web.dll
+C:\Users\estagioCotin2\Documents\EstudosVS\Balta.io\Dima\Dima.Web\bin\Debug\net9.0\wwwroot\_framework\Dima.Web.o9dw7kf7gu.pdb
+C:\Users\estagioCotin2\Documents\EstudosVS\Balta.io\Dima\Dima.Web\bin\Debug\net9.0\wwwroot\_framework\Dima.Web.mr0bud2hnh.wasm
+C:\Users\estagioCotin2\Documents\EstudosVS\Balta.io\Dima\Dima.Web\bin\Debug\net9.0\wwwroot\_framework\Dima.Web.o9dw7kf7gu.pdb.gz
+C:\Users\estagioCotin2\Documents\EstudosVS\Balta.io\Dima\Dima.Web\bin\Debug\net9.0\wwwroot\_framework\Dima.Web.mr0bud2hnh.wasm.gz
+C:\Users\estagioCotin2\Documents\EstudosVS\Balta.io\Dima\Dima.Web\obj\Debug\net9.0\compressed\xujp3esvxf-mr0bud2hnh.gz
+C:\Users\estagioCotin2\Documents\EstudosVS\Balta.io\Dima\Dima.Web\obj\Debug\net9.0\compressed\6rm4iddht2-o9dw7kf7gu.gz
+C:\Users\estagioCotin2\Documents\EstudosVS\Balta.io\Dima\Dima.Web\obj\Debug\net9.0\compressed\mvidceechf-m3lbdhuako.gz
+C:\Users\estagioCotin2\Documents\EstudosVS\Balta.io\Dima\Dima.Web\obj\Debug\net9.0\compressed\70vn0rd6h7-gf5h28ha77.gz
+C:\Users\estagioCotin2\Documents\EstudosVS\Balta.io\Dima\Dima.Web\obj\Debug\net9.0\compressed\1yfefky1x0-g3tpd1i71z.gz
