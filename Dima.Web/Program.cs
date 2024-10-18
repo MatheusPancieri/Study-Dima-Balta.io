@@ -1,4 +1,5 @@
 using Dima.Web;
+using Dima.Web.Security;
 using Microsoft.AspNetCore.Components.Web;
 using Microsoft.AspNetCore.Components.WebAssembly.Hosting;
 using MudBlazor.Services;
@@ -12,5 +13,9 @@ builder.RootComponents.Add<HeadOutlet>("head::after");
 // Configura os serviços da aplicação
 builder.Services.AddScoped(sp => new HttpClient { BaseAddress = new Uri(builder.HostEnvironment.BaseAddress) });
 builder.Services.AddMudServices();
+
+builder.Services.AddHttpClient(Configuration.HttpClientName, opt => {
+    opt.BaseAddress = new Uri(Configuration.BackendUrl);
+}).AddHttpMessageHandler<CookieHandler>();
 
 await builder.Build().RunAsync();

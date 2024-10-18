@@ -1,13 +1,15 @@
 {
   "mainAssemblyName": "Dima.Web",
   "resources": {
-    "hash": "sha256-GjaOP4VVd/JZpFwC7W2vyIXjLxLPLmA4bNR1ZBE4hYI=",
+    "hash": "sha256-aTYeqZAm6ldigEyaJZgnnWnJsPhbApxeVA24jH1sAIQ=",
     "fingerprinting": {
       "Microsoft.AspNetCore.Authorization.6iz29fp231.wasm": "Microsoft.AspNetCore.Authorization.wasm",
       "Microsoft.AspNetCore.Components.8n2ag8dq2h.wasm": "Microsoft.AspNetCore.Components.wasm",
+      "Microsoft.AspNetCore.Components.Authorization.tacbve6ve6.wasm": "Microsoft.AspNetCore.Components.Authorization.wasm",
       "Microsoft.AspNetCore.Components.Forms.e1f5dhd1hi.wasm": "Microsoft.AspNetCore.Components.Forms.wasm",
       "Microsoft.AspNetCore.Components.Web.86ocmak03v.wasm": "Microsoft.AspNetCore.Components.Web.wasm",
       "Microsoft.AspNetCore.Components.WebAssembly.nd2r1nfwds.wasm": "Microsoft.AspNetCore.Components.WebAssembly.wasm",
+      "Microsoft.AspNetCore.Components.WebAssembly.Authentication.jalt5d9kri.wasm": "Microsoft.AspNetCore.Components.WebAssembly.Authentication.wasm",
       "Microsoft.AspNetCore.Metadata.v8mg78pdpt.wasm": "Microsoft.AspNetCore.Metadata.wasm",
       "Microsoft.Extensions.Configuration.4rvupb7m1y.wasm": "Microsoft.Extensions.Configuration.wasm",
       "Microsoft.Extensions.Configuration.Abstractions.s2ocphnvrv.wasm": "Microsoft.Extensions.Configuration.Abstractions.wasm",
@@ -16,14 +18,18 @@
       "Microsoft.Extensions.Configuration.Json.zcm57tr0o5.wasm": "Microsoft.Extensions.Configuration.Json.wasm",
       "Microsoft.Extensions.DependencyInjection.4uq025m44x.wasm": "Microsoft.Extensions.DependencyInjection.wasm",
       "Microsoft.Extensions.DependencyInjection.Abstractions.odqaelrd2d.wasm": "Microsoft.Extensions.DependencyInjection.Abstractions.wasm",
+      "Microsoft.Extensions.Diagnostics.kjtl2c34et.wasm": "Microsoft.Extensions.Diagnostics.wasm",
+      "Microsoft.Extensions.Diagnostics.Abstractions.eim2lc13mh.wasm": "Microsoft.Extensions.Diagnostics.Abstractions.wasm",
       "Microsoft.Extensions.FileProviders.Abstractions.5vt9i0est7.wasm": "Microsoft.Extensions.FileProviders.Abstractions.wasm",
       "Microsoft.Extensions.FileProviders.Physical.y13gsdo7nh.wasm": "Microsoft.Extensions.FileProviders.Physical.wasm",
       "Microsoft.Extensions.FileSystemGlobbing.ydnrzy3ypg.wasm": "Microsoft.Extensions.FileSystemGlobbing.wasm",
+      "Microsoft.Extensions.Http.xy2ji5w849.wasm": "Microsoft.Extensions.Http.wasm",
       "Microsoft.Extensions.Localization.qab9fk66hy.wasm": "Microsoft.Extensions.Localization.wasm",
       "Microsoft.Extensions.Localization.Abstractions.xe3ex8nc4u.wasm": "Microsoft.Extensions.Localization.Abstractions.wasm",
       "Microsoft.Extensions.Logging.2je9trs1wb.wasm": "Microsoft.Extensions.Logging.wasm",
       "Microsoft.Extensions.Logging.Abstractions.j0l56ybynk.wasm": "Microsoft.Extensions.Logging.Abstractions.wasm",
       "Microsoft.Extensions.Options.m7rnnjp4uf.wasm": "Microsoft.Extensions.Options.wasm",
+      "Microsoft.Extensions.Options.ConfigurationExtensions.zyudcniekx.wasm": "Microsoft.Extensions.Options.ConfigurationExtensions.wasm",
       "Microsoft.Extensions.Primitives.1ptej74xfe.wasm": "Microsoft.Extensions.Primitives.wasm",
       "Microsoft.JSInterop.10ovy7r2cv.wasm": "Microsoft.JSInterop.wasm",
       "Microsoft.JSInterop.WebAssembly.boe05k9li3.wasm": "Microsoft.JSInterop.WebAssembly.wasm",
@@ -204,8 +210,10 @@
       "icudt_CJK.tjcz0u77k5.dat": "icudt_CJK.dat",
       "icudt_EFIGS.tptq2av103.dat": "icudt_EFIGS.dat",
       "icudt_no_CJK.lfu7j35m59.dat": "icudt_no_CJK.dat",
-      "Dima.Web.nl72ia0jgd.wasm": "Dima.Web.wasm",
-      "Dima.Web.0n1hl1frqk.pdb": "Dima.Web.pdb"
+      "Dima.Core.u4ag4n3srf.wasm": "Dima.Core.wasm",
+      "Dima.Core.q2v6inq0n0.pdb": "Dima.Core.pdb",
+      "Dima.Web.8x3h1y6ipm.wasm": "Dima.Web.wasm",
+      "Dima.Web.a3qh78a232.pdb": "Dima.Web.pdb"
     },
     "jsModuleNative": {
       "dotnet.native.0fbbyz7uv3.js": "sha256-dDM8L8vSODqdWkZFTgHiiqLdNoQ3rSGH/kdJxHx42ys="
@@ -228,9 +236,11 @@
     "assembly": {
       "Microsoft.AspNetCore.Authorization.6iz29fp231.wasm": "sha256-wop7u1vkqMrC8STyHNjo8fU4gzcpIHVH4Dy+31RvXV8=",
       "Microsoft.AspNetCore.Components.8n2ag8dq2h.wasm": "sha256-5Kvi+T18AEE82xuKJy5gaVG+FzhEGB87tQ6Bbi417Jk=",
+      "Microsoft.AspNetCore.Components.Authorization.tacbve6ve6.wasm": "sha256-Baqx7hhBkIpYRwYfeaobznQftLbl1qf4Z43xmYAE45M=",
       "Microsoft.AspNetCore.Components.Forms.e1f5dhd1hi.wasm": "sha256-YvxQDzl9jTMybx9LIkYzqslgkEFU0oXzWhX4NoIURBw=",
       "Microsoft.AspNetCore.Components.Web.86ocmak03v.wasm": "sha256-oHwM+Z+HScjwUMYDYGsf4zreIh62VcnzCAJ07XDM/14=",
       "Microsoft.AspNetCore.Components.WebAssembly.nd2r1nfwds.wasm": "sha256-y5EoUwe+vwUyqY9vTCBHGruvyTo9hL5pbhQIC/goWlU=",
+      "Microsoft.AspNetCore.Components.WebAssembly.Authentication.jalt5d9kri.wasm": "sha256-9eXYO78Eub2nN2ww9OtPaRtZcs9GewokURUBuwWY9WM=",
       "Microsoft.AspNetCore.Metadata.v8mg78pdpt.wasm": "sha256-YdR8Enq4RTCMFRglAwfN1MDDlu5ICZJEIXpvPPj62ls=",
       "Microsoft.Extensions.Configuration.4rvupb7m1y.wasm": "sha256-wE4Y85aqW/nJrpIaI026z5mTm8Lk5bG63TDBfK4rSC0=",
       "Microsoft.Extensions.Configuration.Abstractions.s2ocphnvrv.wasm": "sha256-5NEpMcFWmf1zOT9gVto9dLc9JQR0+iSX36XkwTIaQn0=",
@@ -239,14 +249,18 @@
       "Microsoft.Extensions.Configuration.Json.zcm57tr0o5.wasm": "sha256-c6uOhbcQQKcKFfor1b1wkvxgpumigsyLkFYtWtlvcBY=",
       "Microsoft.Extensions.DependencyInjection.4uq025m44x.wasm": "sha256-JKIKLwj/AKnnp6K6MFV1DVvWH70RHMjG3hg9gXLR/kY=",
       "Microsoft.Extensions.DependencyInjection.Abstractions.odqaelrd2d.wasm": "sha256-DNazNV8ygiVVrS8i/F4iPitOEz+1q10QjEm9nyOnEas=",
+      "Microsoft.Extensions.Diagnostics.kjtl2c34et.wasm": "sha256-MFVFI2HwI1mQqiiXvaLy8bt3VV9aPzyHpmctfcIyNc8=",
+      "Microsoft.Extensions.Diagnostics.Abstractions.eim2lc13mh.wasm": "sha256-dpN/LMJr0L1oxGxMzPw+PC8Nkzf+2WG8a3ccmvA35DE=",
       "Microsoft.Extensions.FileProviders.Abstractions.5vt9i0est7.wasm": "sha256-cTHv50E/+XRKUIn5Wu8Ns7CWFhfagvB8Wxc+cPKnRYc=",
       "Microsoft.Extensions.FileProviders.Physical.y13gsdo7nh.wasm": "sha256-dqPb1KgDulx21tuzwSSXNIofZ0hRCKv3QiPbaaUa+Zo=",
       "Microsoft.Extensions.FileSystemGlobbing.ydnrzy3ypg.wasm": "sha256-Jip5pPogxp1kLPSZwiD9Gr1lOWAwoczBnGo/izzfhSI=",
+      "Microsoft.Extensions.Http.xy2ji5w849.wasm": "sha256-N+Tzkk/w6KHM7RAL+KgJZSEePxW2/p5DHYG8y6zUPx0=",
       "Microsoft.Extensions.Localization.qab9fk66hy.wasm": "sha256-csBUd4QuytZ4vFjfWtJaYptncxX/miKR5lPhAB9gefg=",
       "Microsoft.Extensions.Localization.Abstractions.xe3ex8nc4u.wasm": "sha256-N6ZBgmVtKuTLyVca1QduGSfIrtLeu8VDZTMjHhRoW0Q=",
       "Microsoft.Extensions.Logging.2je9trs1wb.wasm": "sha256-zjrN1pShJJ4EC/yQAVCq/Y1PGJcSw8YjX9Dv4WrWSwE=",
       "Microsoft.Extensions.Logging.Abstractions.j0l56ybynk.wasm": "sha256-o7fo9h2MRr1LWQ/JtFYkuQ+Dwsd8N1qwpkEfJtSEpJo=",
       "Microsoft.Extensions.Options.m7rnnjp4uf.wasm": "sha256-fuOr/5Cok4mATS8X8d2oZAT5KQlXNNK4P/QP4GSBQis=",
+      "Microsoft.Extensions.Options.ConfigurationExtensions.zyudcniekx.wasm": "sha256-C8ZA1VhhrMRPf8Qqv+OrW9za3ggJkCM9i1d8R/F1ETc=",
       "Microsoft.Extensions.Primitives.1ptej74xfe.wasm": "sha256-1XyFPijIIoAkvZfbi3y1vfKFdAxYKv5MvBE4QDZBpcU=",
       "Microsoft.JSInterop.10ovy7r2cv.wasm": "sha256-v2YM90AAOAn8FVvguS+ty3dyqggCNRDvpcZf7C8zACE=",
       "Microsoft.JSInterop.WebAssembly.boe05k9li3.wasm": "sha256-tfBp5jj3ogHoMRNBZdLDdQ9xbonK7V4sxCClroBB7qc=",
@@ -418,10 +432,12 @@
       "WindowsBase.lc9eiktle0.wasm": "sha256-K6fVEeTcUpmfAgcQZKEF2t2LTMJAi1RLO0DTUkOOPOk=",
       "mscorlib.p8nn03wyo0.wasm": "sha256-aUFPl5WH/0Mzjw8aAubxdZSHJgNbwwmNuWE1iHwCEG4=",
       "netstandard.8iwlv2ubpa.wasm": "sha256-0P7glxqKB0dgs2xIJ51l8/B9w6bkmInT6Kq0Lx5/Zjk=",
-      "Dima.Web.nl72ia0jgd.wasm": "sha256-+wwMB5YAek9NoP1QG4oisemLp2kupjnAYWM+HJmXTtE="
+      "Dima.Core.u4ag4n3srf.wasm": "sha256-svjFZI5dGUG3syEDuv2u7IITAFbBZJOV264+vtpQuZY=",
+      "Dima.Web.8x3h1y6ipm.wasm": "sha256-HHe7zMTtUfUHTpNOhnG34D2Be2jk4Nznzax2TqRx2Bc="
     },
     "pdb": {
-      "Dima.Web.0n1hl1frqk.pdb": "sha256-jKv9nh1yI5ZRw1qIuHOP4wrtsfhj4cKDIV8jgK61TFk="
+      "Dima.Core.q2v6inq0n0.pdb": "sha256-0pAFhRLDsnFiBYD4JvnaYkoj2zo/xuOLpOyJCWra00o=",
+      "Dima.Web.a3qh78a232.pdb": "sha256-qrqcVbwgI6ifQd/NFF/3QLYYAbCa7rsk2H/Qh9JXRVI="
     }
   },
   "cacheBootResources": true,
