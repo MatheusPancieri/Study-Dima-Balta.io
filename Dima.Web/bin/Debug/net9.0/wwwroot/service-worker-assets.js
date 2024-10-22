@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "oAZtxeMV",
+  "version": "7lj/nhii",
   "assets": [
     {
       "hash": "sha256-Qlj6NGS978hjVyrYLtW5G6trKGerdW4Fwgvr2eUo/lU=",
@@ -14,20 +14,20 @@ self.assetsManifest = {
       "url": "_content/MudBlazor/MudBlazor.min.js"
     },
     {
-      "hash": "sha256-0pAFhRLDsnFiBYD4JvnaYkoj2zo/xuOLpOyJCWra00o=",
-      "url": "_framework/Dima.Core.q2v6inq0n0.pdb"
+      "hash": "sha256-JrPK8IpCR8UvZ9fFpZWGDZaLRxudo0PNMgSng7hEoik=",
+      "url": "_framework/Dima.Core.2lnz1odiwd.wasm"
     },
     {
-      "hash": "sha256-svjFZI5dGUG3syEDuv2u7IITAFbBZJOV264+vtpQuZY=",
-      "url": "_framework/Dima.Core.u4ag4n3srf.wasm"
+      "hash": "sha256-r8a89EnG5/JSmIMIvHcTB3lx6J1K+Tu0WcNHOOpQhG8=",
+      "url": "_framework/Dima.Core.b5f0iujnm9.pdb"
     },
     {
-      "hash": "sha256-HHe7zMTtUfUHTpNOhnG34D2Be2jk4Nznzax2TqRx2Bc=",
-      "url": "_framework/Dima.Web.8x3h1y6ipm.wasm"
+      "hash": "sha256-idRQ3yv6Num8ki+dEelwkenWGiUeLaBHrjzW2ZP31jY=",
+      "url": "_framework/Dima.Web.354ebte786.pdb"
     },
     {
-      "hash": "sha256-qrqcVbwgI6ifQd/NFF/3QLYYAbCa7rsk2H/Qh9JXRVI=",
-      "url": "_framework/Dima.Web.a3qh78a232.pdb"
+      "hash": "sha256-NUY+lxA955q8/f6l4USYekn2/XPWUG92DDeDlWtIJCg=",
+      "url": "_framework/Dima.Web.bs95helcuk.wasm"
     },
     {
       "hash": "sha256-wop7u1vkqMrC8STyHNjo8fU4gzcpIHVH4Dy+31RvXV8=",
@@ -822,7 +822,7 @@ self.assetsManifest = {
       "url": "_framework/WindowsBase.lc9eiktle0.wasm"
     },
     {
-      "hash": "sha256-PO9xrCETuAJvHq0UwCyVYFHljVIpDPZfiYIWxv7as+o=",
+      "hash": "sha256-BSr2/u2PLWeW8FShi13BHoRDTaDI3wBXQPJImj8jVM4=",
       "url": "_framework/blazor.boot.json"
     },
     {
@@ -872,6 +872,10 @@ self.assetsManifest = {
     {
       "hash": "sha256-0P7glxqKB0dgs2xIJ51l8/B9w6bkmInT6Kq0Lx5/Zjk=",
       "url": "_framework/netstandard.8iwlv2ubpa.wasm"
+    },
+    {
+      "hash": "sha256-goKXTrtu1fIMe197/Enzqpq6KdGsjXlSylZHL955rhw=",
+      "url": "appsettings.json"
     },
     {
       "hash": "sha256-PlReFrx3e7g71Qu/Al7b3ozg9JnEz1StahSU9k6NRUM=",

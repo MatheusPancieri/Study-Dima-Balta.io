@@ -1,10 +1,3 @@
-C:\Users\estagioCotin2\Documents\EstudosVS\Balta.io\Dima\Dima.Api\bin\Debug\net9.0\Azure.Core.dll
-C:\Users\estagioCotin2\Documents\EstudosVS\Balta.io\Dima\Dima.Api\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
-C:\Users\estagioCotin2\Documents\EstudosVS\Balta.io\Dima\Dima.Api\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
-C:\Users\estagioCotin2\Documents\EstudosVS\Balta.io\Dima\Dima.Api\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
-C:\Users\estagioCotin2\Documents\EstudosVS\Balta.io\Dima\Dima.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
-C:\Users\estagioCotin2\Documents\EstudosVS\Balta.io\Dima\Dima.Api\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\estagioCotin2\Documents\EstudosVS\Balta.io\Dima\Dima.Api\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
 C:\Users\estagioCotin2\Documents\EstudosVS\Balta.io\Dima\Dima.Api\bin\Debug\net9.0\appsettings.Development.json
 C:\Users\estagioCotin2\Documents\EstudosVS\Balta.io\Dima\Dima.Api\bin\Debug\net9.0\appsettings.json
 C:\Users\estagioCotin2\Documents\EstudosVS\Balta.io\Dima\Dima.Api\bin\Debug\net9.0\Dima.Api.staticwebassets.endpoints.json
@@ -13,14 +6,18 @@ C:\Users\estagioCotin2\Documents\EstudosVS\Balta.io\Dima\Dima.Api\bin\Debug\net9
 C:\Users\estagioCotin2\Documents\EstudosVS\Balta.io\Dima\Dima.Api\bin\Debug\net9.0\Dima.Api.runtimeconfig.json
 C:\Users\estagioCotin2\Documents\EstudosVS\Balta.io\Dima\Dima.Api\bin\Debug\net9.0\Dima.Api.dll
 C:\Users\estagioCotin2\Documents\EstudosVS\Balta.io\Dima\Dima.Api\bin\Debug\net9.0\Dima.Api.pdb
+C:\Users\estagioCotin2\Documents\EstudosVS\Balta.io\Dima\Dima.Api\bin\Debug\net9.0\Azure.Core.dll
 C:\Users\estagioCotin2\Documents\EstudosVS\Balta.io\Dima\Dima.Api\bin\Debug\net9.0\Azure.Identity.dll
 C:\Users\estagioCotin2\Documents\EstudosVS\Balta.io\Dima\Dima.Api\bin\Debug\net9.0\Humanizer.dll
 C:\Users\estagioCotin2\Documents\EstudosVS\Balta.io\Dima\Dima.Api\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 C:\Users\estagioCotin2\Documents\EstudosVS\Balta.io\Dima\Dima.Api\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
 C:\Users\estagioCotin2\Documents\EstudosVS\Balta.io\Dima\Dima.Api\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\estagioCotin2\Documents\EstudosVS\Balta.io\Dima\Dima.Api\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\estagioCotin2\Documents\EstudosVS\Balta.io\Dima\Dima.Api\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
 C:\Users\estagioCotin2\Documents\EstudosVS\Balta.io\Dima\Dima.Api\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\estagioCotin2\Documents\EstudosVS\Balta.io\Dima\Dima.Api\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
 C:\Users\estagioCotin2\Documents\EstudosVS\Balta.io\Dima\Dima.Api\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\estagioCotin2\Documents\EstudosVS\Balta.io\Dima\Dima.Api\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
 C:\Users\estagioCotin2\Documents\EstudosVS\Balta.io\Dima\Dima.Api\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
 C:\Users\estagioCotin2\Documents\EstudosVS\Balta.io\Dima\Dima.Api\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
 C:\Users\estagioCotin2\Documents\EstudosVS\Balta.io\Dima\Dima.Api\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
@@ -33,6 +30,7 @@ C:\Users\estagioCotin2\Documents\EstudosVS\Balta.io\Dima\Dima.Api\bin\Debug\net9
 C:\Users\estagioCotin2\Documents\EstudosVS\Balta.io\Dima\Dima.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
 C:\Users\estagioCotin2\Documents\EstudosVS\Balta.io\Dima\Dima.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
 C:\Users\estagioCotin2\Documents\EstudosVS\Balta.io\Dima\Dima.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\estagioCotin2\Documents\EstudosVS\Balta.io\Dima\Dima.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\estagioCotin2\Documents\EstudosVS\Balta.io\Dima\Dima.Api\bin\Debug\net9.0\Microsoft.OpenApi.dll
 C:\Users\estagioCotin2\Documents\EstudosVS\Balta.io\Dima\Dima.Api\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
 C:\Users\estagioCotin2\Documents\EstudosVS\Balta.io\Dima\Dima.Api\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
@@ -75,6 +73,7 @@ C:\Users\estagioCotin2\Documents\EstudosVS\Balta.io\Dima\Dima.Api\bin\Debug\net9
 C:\Users\estagioCotin2\Documents\EstudosVS\Balta.io\Dima\Dima.Api\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
 C:\Users\estagioCotin2\Documents\EstudosVS\Balta.io\Dima\Dima.Api\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
 C:\Users\estagioCotin2\Documents\EstudosVS\Balta.io\Dima\Dima.Api\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\estagioCotin2\Documents\EstudosVS\Balta.io\Dima\Dima.Api\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
 C:\Users\estagioCotin2\Documents\EstudosVS\Balta.io\Dima\Dima.Api\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
 C:\Users\estagioCotin2\Documents\EstudosVS\Balta.io\Dima\Dima.Api\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
 C:\Users\estagioCotin2\Documents\EstudosVS\Balta.io\Dima\Dima.Api\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
@@ -105,6 +104,7 @@ C:\Users\estagioCotin2\Documents\EstudosVS\Balta.io\Dima\Dima.Api\bin\Debug\net9
 C:\Users\estagioCotin2\Documents\EstudosVS\Balta.io\Dima\Dima.Api\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\estagioCotin2\Documents\EstudosVS\Balta.io\Dima\Dima.Api\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\estagioCotin2\Documents\EstudosVS\Balta.io\Dima\Dima.Api\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\estagioCotin2\Documents\EstudosVS\Balta.io\Dima\Dima.Api\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
 C:\Users\estagioCotin2\Documents\EstudosVS\Balta.io\Dima\Dima.Api\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
 C:\Users\estagioCotin2\Documents\EstudosVS\Balta.io\Dima\Dima.Api\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
 C:\Users\estagioCotin2\Documents\EstudosVS\Balta.io\Dima\Dima.Api\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
